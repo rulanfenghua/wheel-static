@@ -13,7 +13,7 @@
       "id": "4734c20c-0db8-4eb2-92ea-e692f4d70934"
     },
     {
-      "folded": true,
+      "folded": false,
       "id": "7b81d4e8-ec84-4716-968d-500ac1d78a54"
     },
     {
@@ -21,7 +21,7 @@
       "id": "eddf70f1-fcda-44de-9062-7b957f3353c8"
     },
     {
-      "folded": true,
+      "folded": false,
       "id": "de9653c9-a902-4fb0-91d7-7bc3607da075"
     },
     {
@@ -47,6 +47,14 @@
     {
       "folded": true,
       "id": "a8027877-d8d6-4645-97a0-52d4a0123dba"
+    },
+    {
+      "folded": true,
+      "id": "859c8c57-a17e-488b-b5c3-70c7843ff7c5"
+    },
+    {
+      "folded": true,
+      "id": "fb596faf-5259-4fde-b566-10f0b939ea2d"
     }
   ]
 }

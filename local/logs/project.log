@@ -1,133 +1,555 @@
-2018-01-05T08:12:32.492Z - normal: Load ~/.CocosCreator/settings.json
-2018-01-05T08:12:32.495Z - normal: checking language setting...
-2018-01-05T08:12:32.496Z - normal: Language: zh
-2018-01-05T08:12:33.006Z - success: protocol editor-framework registered
-2018-01-05T08:12:33.007Z - success: protocol app registered
-2018-01-05T08:12:33.007Z - success: protocol theme registered
-2018-01-05T08:12:33.007Z - success: protocol packages registered
-2018-01-05T08:12:33.007Z - success: protocol unpack registerred
-2018-01-05T08:12:33.007Z - success: protocol disable-commonjs registerred
-2018-01-05T08:12:33.143Z - normal: connected!
-2018-01-05T08:12:33.145Z - normal: Check project /Users/xujw/Work/cccProj/Wheel
-2018-01-05T08:12:33.147Z - normal: Initializing Cocos2d
-2018-01-05T08:12:33.349Z - normal: Initializing Asset Database
-2018-01-05T08:12:33.372Z - success: protocol uuid registerred
-2018-01-05T08:12:33.373Z - success: protocol db registerred
-2018-01-05T08:12:33.373Z - success: protocol thumbnail registerred
-2018-01-05T08:12:33.373Z - normal: Loading editor/builtin packages
-2018-01-05T08:12:33.389Z - success: anysdk loaded
-2018-01-05T08:12:33.488Z - success: assets loaded
-2018-01-05T08:12:33.492Z - success: builder loaded
-2018-01-05T08:12:33.494Z - success: cocos-analytics loaded
-2018-01-05T08:12:33.498Z - success: console loaded
-2018-01-05T08:12:33.501Z - success: hierarchy loaded
-2018-01-05T08:12:33.505Z - success: inspector loaded
-2018-01-05T08:12:33.506Z - success: keystore loaded
-2018-01-05T08:12:33.510Z - success: node-library loaded
-2018-01-05T08:12:33.511Z - success: package-asset loaded
-2018-01-05T08:12:33.513Z - success: preferences loaded
-2018-01-05T08:12:33.516Z - success: project-exporter loaded
-2018-01-05T08:12:33.529Z - success: project-importer loaded
-2018-01-05T08:12:33.532Z - success: project-settings loaded
-2018-01-05T08:12:33.535Z - success: ui-kit loaded
-2018-01-05T08:12:33.539Z - success: ui-grid loaded
-2018-01-05T08:12:33.543Z - success: scene loaded
-2018-01-05T08:12:33.544Z - success: sprite-editor loaded
-2018-01-05T08:12:33.547Z - success: store loaded
-2018-01-05T08:12:33.552Z - success: timeline loaded
-2018-01-05T08:12:33.552Z - normal: Loading builtin packages
-2018-01-05T08:12:33.556Z - success: asset-db-debugger loaded
-2018-01-05T08:12:33.557Z - success: color-picker loaded
-2018-01-05T08:12:33.560Z - success: package-manager loaded
-2018-01-05T08:12:33.615Z - success: sdkbox loaded
-2018-01-05T08:12:33.616Z - normal: last time update is in one day
-2018-01-05T08:12:33.620Z - success: tester loaded
-2018-01-05T08:12:33.623Z - success: ui-kit-preview-extra loaded
-2018-01-05T08:12:33.626Z - success: ui-kit-preview loaded
-2018-01-05T08:12:33.629Z - success: ui-tree loaded
-2018-01-05T08:12:34.441Z - normal: Initializing project /Users/xujw/Work/cccProj/Wheel
-2018-01-05T08:12:34.442Z - normal: Loading packages
-2018-01-05T08:12:34.452Z - warn: The profile of the panel (creator-luacpp-support) needs to be moved to the package root
-2018-01-05T08:12:34.453Z - normal: [LuaCPP Support] version 0.3
-2018-01-05T08:12:34.453Z - success: creator-luacpp-support loaded
-2018-01-05T08:12:34.456Z - normal: package load
-2018-01-05T08:12:34.456Z - success: json-lint loaded
-2018-01-05T08:12:34.463Z - success: sdkbox loaded
-2018-01-05T08:12:34.463Z - normal: Watching packages
-2018-01-05T08:12:34.522Z - normal: Run Application
-2018-01-05T08:12:34.872Z - success: preview server running at http://localhost:7456
-2018-01-05T08:12:39.026Z - normal: 1.7.0
-2018-01-05T08:12:42.070Z - normal: Simulator: WORKAREA WIDTH 1440.00, HEIGHT 801.00
-2018-01-05T08:12:42.071Z - normal: Simulator: FRAME SCALE = 0.75
-2018-01-05T08:12:42.104Z - normal: Simulator: GLFWError #65544 Happen, Cocoa: Failed to retrieve display name
-2018-01-05T08:12:42.160Z - normal: Simulator: 
-2018-01-05T08:12:42.160Z - normal: Simulator: {
-2018-01-05T08:12:42.160Z - normal: Simulator: 	gl.supports_OES_map_buffer: false
-2018-01-05T08:12:42.175Z - normal: Simulator: 	gl.supports_vertex_array_object: true
-2018-01-05T08:12:42.176Z - normal: Simulator: 	cocos2d.x.version: 1.7.0
-2018-01-05T08:12:42.176Z - normal: Simulator: 	gl.vendor: ATI Technologies Inc.
-2018-01-05T08:12:42.176Z - normal: Simulator: 	gl.supports_PVRTC: false
-2018-01-05T08:12:42.177Z - normal: Simulator: 	gl.renderer: AMD Radeon R9 M370X OpenGL Engine
-2018-01-05T08:12:42.177Z - normal: Simulator: 	cocos2d.x.compiled_with_profiler: false
-2018-01-05T08:12:42.177Z - normal: Simulator: 	gl.max_texture_size: 16384
-2018-01-05T08:12:42.177Z - normal: Simulator: 	gl.supports_ETC1: false
-2018-01-05T08:12:42.177Z - normal: Simulator: 	gl.supports_BGRA8888: false
-2018-01-05T08:12:42.177Z - normal: Simulator: 	cocos2d.x.build_type: DEBUG
-2018-01-05T08:12:42.177Z - normal: Simulator: 	gl.max_texture_units: 16
-2018-01-05T08:12:42.178Z - normal: Simulator: 	gl.supports_OES_packed_depth_stencil: false
-2018-01-05T08:12:42.178Z - normal: Simulator: 	gl.supports_discard_framebuffer: false
-2018-01-05T08:12:42.178Z - normal: Simulator: 	gl.supports_NPOT: true
-2018-01-05T08:12:42.178Z - normal: Simulator: 	gl.version: 2.1 ATI-1.60.24
-2018-01-05T08:12:42.178Z - normal: Simulator: 	cocos2d.x.compiled_with_gl_state_cache: true
-2018-01-05T08:12:42.178Z - normal: Simulator: 	gl.supports_OES_depth24: false
-2018-01-05T08:12:42.179Z - normal: Simulator: }
-2018-01-05T08:12:42.179Z - normal: Simulator: 
-2018-01-05T08:12:42.179Z - normal: Simulator: 
-2018-01-05T08:12:42.179Z - normal: Simulator: cocos2d: warning, Director::setProjection() failed because size is 0
-2018-01-05T08:12:42.202Z - normal: Simulator: Project Config:
-2018-01-05T08:12:42.202Z - normal: Simulator:     project dir: /Applications/CocosCreator.app/Contents/Resources/cocos2d-x/simulator/mac/Simulator.app/Contents/Resources/
-2018-01-05T08:12:42.203Z - normal: Simulator:     writable path: $(PROJDIR)/
-2018-01-05T08:12:42.203Z - normal: Simulator:     script file: $(PROJDIR)/main.js
-2018-01-05T08:12:42.203Z - normal: Simulator:     frame size: 768 x 1024
-2018-01-05T08:12:42.203Z - normal: Simulator:     frame scale: 0.75
-2018-01-05T08:12:42.204Z - normal: Simulator:     show console: NO
-2018-01-05T08:12:42.204Z - normal: Simulator:     write debug log: NO ()
-2018-01-05T08:12:42.204Z - normal: Simulator:     listen: 
-2018-01-05T08:12:42.204Z - normal: Simulator:     debugger: none
-2018-01-05T08:12:42.204Z - normal: Simulator:     add searching path:
-2018-01-05T08:12:42.205Z - normal: Simulator: ------------------------------------------------
-2018-01-05T08:12:42.205Z - normal: Simulator: LOAD Js FILE: main.js
-2018-01-05T08:12:42.205Z - normal: Simulator: ------------------------------------------------
-2018-01-05T08:12:42.205Z - normal: Simulator: Initializing JavaScriptCore 
-2018-01-05T08:12:42.250Z - normal: Simulator: JS: Cocos2d-x-lite v1.7.0
-2018-01-05T08:12:42.465Z - normal: Simulator: iShow!
-2018-01-05T08:12:42.662Z - normal: Simulator: JS: InitScene: 2.224999999999966ms
-2018-01-05T08:12:42.662Z - normal: Simulator: JS: AutoRelease: 0.15499999999997272ms
-2018-01-05T08:12:42.662Z - normal: Simulator: JS: Destroy: 0.0999999999999659ms
-2018-01-05T08:12:42.662Z - normal: Simulator: JS: AttachPersist: 0.003999999999962256ms
-2018-01-05T08:12:42.706Z - normal: Simulator: setReturnType not implemented
-2018-01-05T08:12:42.707Z - normal: Simulator: [Edit text] content size = (160.000000, 40.000000)
-2018-01-05T08:12:42.707Z - normal: Simulator: setReturnType not implemented
-2018-01-05T08:12:42.708Z - normal: Simulator: [Edit text] content size = (160.000000, 40.000000)
-2018-01-05T08:12:42.708Z - normal: Simulator: [Edit text] content size = (160.000000, 40.000000)
-2018-01-05T08:12:42.708Z - normal: Simulator: INITIAL_CAPS_ALL_CHARACTERS not implemented
-2018-01-05T08:12:42.709Z - normal: Simulator: setReturnType not implemented
-2018-01-05T08:12:42.709Z - normal: Simulator: JS: ....onload
-2018-01-05T08:12:42.710Z - normal: Simulator: JS: Activate: 47.61099999999999ms
-2018-01-05T08:12:42.711Z - normal: Simulator: [Edit text] content size = (160.000000, 40.000000)
-2018-01-05T08:12:48.626Z - normal: Simulator: JS: begin spin
-2018-01-05T08:12:55.693Z - normal: Simulator: I/AudioEngine-inl.mm (359): OpenAL was initialized successfully!
-2018-01-05T08:12:55.694Z - normal: Simulator: V/AudioCache (311): pcm buffer was loaded successfully, total frames: 2384, total read frames: 2384, adjust frames: 0, remainingFrames: 0
-2018-01-05T08:12:55.694Z - normal: Simulator: JS: 2x
-2018-01-05T08:12:57.460Z - normal: Simulator: JS: begin spin
-2018-01-05T08:13:04.548Z - normal: Simulator: JS: 2x
-2018-01-05T08:13:09.718Z - normal: Simulator: ScriptEngine::cleanup begin ...
-2018-01-05T08:13:09.718Z - normal: Simulator: GC begin ..., (Native -> JS map) count: 54
-2018-01-05T08:13:09.724Z - normal: Simulator: GC end ..., (Native -> JS map) count: 53
-2018-01-05T08:13:09.724Z - normal: Simulator: GC begin ..., (Native -> JS map) count: 53
-2018-01-05T08:13:09.727Z - normal: Simulator: GC end ..., (Native -> JS map) count: 53
-2018-01-05T08:13:09.727Z - normal: Simulator: GC begin ..., (Native -> JS map) count: 53
-2018-01-05T08:13:09.729Z - normal: Simulator: GC end ..., (Native -> JS map) count: 53
-2018-01-05T08:13:09.744Z - normal: Simulator: setReturnType not implemented
-2018-01-05T08:13:09.745Z - normal: Simulator: ScriptEngine::cleanup end ...
-2018-01-05T08:13:11.866Z - info: shutdown preview server
+2018-12-27T06:18:09.598Z - normal: Load ~/.CocosCreator/settings.json
+2018-12-27T06:18:09.601Z - normal: checking language setting...
+2018-12-27T06:18:09.601Z - normal: Language: zh
+2018-12-27T06:18:11.413Z - success: protocol editor-framework registered
+2018-12-27T06:18:11.414Z - success: protocol app registered
+2018-12-27T06:18:11.414Z - success: protocol theme registered
+2018-12-27T06:18:11.414Z - success: protocol packages registered
+2018-12-27T06:18:11.414Z - success: protocol unpack registerred
+2018-12-27T06:18:11.414Z - success: protocol disable-commonjs registerred
+2018-12-27T06:18:11.498Z - normal: connected!
+2018-12-27T06:18:11.500Z - normal: Check project F:\Wheel_CocosCreator
+2018-12-27T06:18:11.503Z - normal: Initializing project F:\Wheel_CocosCreator
+2018-12-27T06:18:11.506Z - normal: Initializing Cocos2d
+2018-12-27T06:18:12.240Z - normal: Initializing Asset Database
+2018-12-27T06:18:12.285Z - success: protocol uuid registerred
+2018-12-27T06:18:12.285Z - success: protocol db registerred
+2018-12-27T06:18:12.285Z - success: protocol thumbnail registerred
+2018-12-27T06:18:12.285Z - normal: Loading editor/builtin packages
+2018-12-27T06:18:12.462Z - success: assets loaded
+2018-12-27T06:18:12.465Z - success: builder loaded
+2018-12-27T06:18:12.467Z - success: cocos-analytics loaded
+2018-12-27T06:18:12.470Z - success: console loaded
+2018-12-27T06:18:12.503Z - success: fb-instant-games loaded
+2018-12-27T06:18:12.504Z - success: google-instant-games loaded
+2018-12-27T06:18:12.509Z - success: hierarchy loaded
+2018-12-27T06:18:12.512Z - success: inspector loaded
+2018-12-27T06:18:12.514Z - success: keystore loaded
+2018-12-27T06:18:12.518Z - success: node-library loaded
+2018-12-27T06:18:12.519Z - success: package-asset loaded
+2018-12-27T06:18:12.520Z - success: preferences loaded
+2018-12-27T06:18:12.521Z - success: project-exporter loaded
+2018-12-27T06:18:12.535Z - success: project-importer loaded
+2018-12-27T06:18:12.537Z - success: project-settings loaded
+2018-12-27T06:18:12.539Z - success: ui-kit loaded
+2018-12-27T06:18:12.543Z - success: scene loaded
+2018-12-27T06:18:12.544Z - success: sprite-editor loaded
+2018-12-27T06:18:12.547Z - success: store loaded
+2018-12-27T06:18:12.549Z - success: timeline loaded
+2018-12-27T06:18:12.549Z - normal: Loading builtin packages
+2018-12-27T06:18:12.552Z - success: asset-db-debugger loaded
+2018-12-27T06:18:12.554Z - success: code-editor loaded
+2018-12-27T06:18:12.555Z - success: color-picker loaded
+2018-12-27T06:18:12.640Z - success: google-play-instant loaded
+2018-12-27T06:18:12.644Z - success: jsb-adapter loaded
+2018-12-27T06:18:12.647Z - success: oppo-runtime loaded
+2018-12-27T06:18:12.649Z - success: package-manager loaded
+2018-12-27T06:18:12.751Z - success: qqplay-adapter loaded
+2018-12-27T06:18:12.754Z - success: sdkbox loaded
+2018-12-27T06:18:12.758Z - success: tester loaded
+2018-12-27T06:18:12.760Z - success: ui-grid loaded
+2018-12-27T06:18:12.761Z - success: ui-kit-preview-extra loaded
+2018-12-27T06:18:12.763Z - success: ui-kit-preview loaded
+2018-12-27T06:18:12.765Z - success: ui-tree loaded
+2018-12-27T06:18:12.768Z - success: vivo-runtime loaded
+2018-12-27T06:18:12.768Z - success: weapp-adapter loaded
+2018-12-27T06:18:13.922Z - normal: Loading packages
+2018-12-27T06:18:13.929Z - normal: Watching packages
+2018-12-27T06:18:14.338Z - normal: Run Application
+2018-12-27T06:18:15.116Z - success: preview server running at http://localhost:7458
+2018-12-27T06:18:21.383Z - warn: Please change the definition of property 'effectAudio' in class 'Wheel'. Starting from v1.10,
+the use of declaring a property in CCClass as a URL has been deprecated.
+For example, if property is Texture2D, the previous definition is:
+    effectAudio: cc.Texture2D,
+    // or:
+    effectAudio: {
+      url: cc.Texture2D,
+      default: ""
+    },
+Now it should be changed to:
+    effectAudio: {
+      type: cc.Texture2D, // use 'type:' to define Texture2D object directly
+      default: null,      // object's default value is null
+    },
+(This helps us to successfully refactor all RawAssets at v2.0, sorry for the inconvenience. 😰 )
+2018-12-27T06:18:46.469Z - normal: Simulator: SCREEN DPI = 96, SCREEN SCALE = 1.00
+2018-12-27T06:18:46.470Z - normal: Simulator: WORKAREA WIDTH 1912.00, HEIGHT 989.00
+2018-12-27T06:18:46.470Z - normal: Simulator: FRAME SCALE = 0.50
+2018-12-27T06:18:46.743Z - normal: Simulator: Ready for GLSL
+2018-12-27T06:18:46.743Z - normal: Simulator: Ready for OpenGL 2.0
+2018-12-27T06:18:46.750Z - normal: Simulator: Project Config:
+2018-12-27T06:18:46.750Z - normal: Simulator:     project dir: C:\CocosCreator\resources\cocos2d-x\simulator\win32\
+2018-12-27T06:18:46.751Z - normal: Simulator:     writable path: $(PROJDIR)\
+2018-12-27T06:18:46.751Z - normal: Simulator:     script file: $(PROJDIR)\main.js
+2018-12-27T06:18:46.751Z - normal: Simulator:     frame size: 750 x 1334
+2018-12-27T06:18:46.751Z - normal: Simulator:     frame scale: 0.50
+2018-12-27T06:18:46.751Z - normal: Simulator:     show console: NO
+2018-12-27T06:18:46.752Z - normal: Simulator:     write debug log: NO ()
+2018-12-27T06:18:46.752Z - normal: Simulator:     listen: 
+2018-12-27T06:18:46.752Z - normal: Simulator:     debugger: none
+2018-12-27T06:18:46.752Z - normal: Simulator:     add searching path:
+2018-12-27T06:18:46.752Z - normal: Simulator: 
+2018-12-27T06:18:46.752Z - normal: Simulator: 
+2018-12-27T06:18:46.752Z - normal: Simulator: 
+2018-12-27T06:18:46.752Z - normal: Simulator: resetDesignResolution request
+2018-12-27T06:18:46.753Z - normal: Simulator: ------------------------------------------------
+2018-12-27T06:18:46.753Z - normal: Simulator: LOAD Js FILE: jsb-adapter/jsb-builtin.js
+2018-12-27T06:18:46.754Z - normal: Simulator: ------------------------------------------------
+2018-12-27T06:18:46.754Z - normal: Simulator: D/jswrapper (368): Initializing V8, version: 6.0.286.52
+2018-12-27T06:18:47.063Z - normal: Simulator: D/jswrapper (813): libuv version: 1.13.1
+2018-12-27T06:18:47.065Z - normal: Simulator: D/jswrapper (112): Debugger listening..., visit [ chrome-devtools://devtools/bundled/inspector.html?v8only=true&ws=0.0.0.0:5086/00010002-0003-4004-8005-000600070008 ] in chrome browser to debug!
+2018-12-27T06:18:47.066Z - normal: Simulator: D/jswrapper (115): For help see https://nodejs.org/en/docs/inspector
+2018-12-27T06:18:47.115Z - normal: Simulator: D/jswrapper (129): JS: Enable batch GL commands optimization!
+2018-12-27T06:18:47.115Z - normal: Simulator: resetDesignResolution request
+2018-12-27T06:18:47.115Z - normal: Simulator: ------------------------------------------------
+2018-12-27T06:18:47.115Z - normal: Simulator: LOAD Js FILE: main.js
+2018-12-27T06:18:47.115Z - normal: Simulator: ------------------------------------------------
+2018-12-27T06:18:47.522Z - normal: Simulator: iShow!
+2018-12-27T06:18:47.538Z - normal: Simulator: D/jswrapper (3708): glGetIntegerv: pname: 0x8b4c
+2018-12-27T06:18:47.538Z - normal: Simulator: D/jswrapper (3708): glGetIntegerv: pname: 0x8869
+2018-12-27T06:18:47.551Z - normal: Simulator: D/jswrapper (129): JS: Cocos Creator v2.0.5
+2018-12-27T06:18:47.727Z - normal: Simulator: D/jswrapper (129): JS: ....onload
+2018-12-27T06:19:35.530Z - normal: Simulator: SCREEN DPI = 96, SCREEN SCALE = 1.00
+2018-12-27T06:19:35.539Z - normal: Simulator: WORKAREA WIDTH 1912.00, HEIGHT 989.00
+2018-12-27T06:19:35.539Z - normal: Simulator: FRAME SCALE = 0.50
+2018-12-27T06:19:35.838Z - normal: Simulator: Ready for GLSL
+2018-12-27T06:19:35.838Z - normal: Simulator: Ready for OpenGL 2.0
+2018-12-27T06:19:35.838Z - normal: Simulator: Project Config:
+2018-12-27T06:19:35.838Z - normal: Simulator:     project dir: C:\CocosCreator\resources\cocos2d-x\simulator\win32\
+2018-12-27T06:19:35.838Z - normal: Simulator:     writable path: $(PROJDIR)\
+2018-12-27T06:19:35.838Z - normal: Simulator:     script file: $(PROJDIR)\main.js
+2018-12-27T06:19:35.838Z - normal: Simulator:     frame size: 750 x 1334
+2018-12-27T06:19:35.838Z - normal: Simulator:     frame scale: 0.50
+2018-12-27T06:19:35.839Z - normal: Simulator:     show console: NO
+2018-12-27T06:19:35.839Z - normal: Simulator:     write debug log: NO ()
+2018-12-27T06:19:35.839Z - normal: Simulator:     listen: 
+2018-12-27T06:19:35.839Z - normal: Simulator:     debugger: none
+2018-12-27T06:19:35.839Z - normal: Simulator:     add searching path:
+2018-12-27T06:19:35.839Z - normal: Simulator: 
+2018-12-27T06:19:35.839Z - normal: Simulator: 
+2018-12-27T06:19:35.839Z - normal: Simulator: 
+2018-12-27T06:19:35.839Z - normal: Simulator: resetDesignResolution request
+2018-12-27T06:19:35.839Z - normal: Simulator: ------------------------------------------------
+2018-12-27T06:19:35.840Z - normal: Simulator: LOAD Js FILE: jsb-adapter/jsb-builtin.js
+2018-12-27T06:19:35.840Z - normal: Simulator: ------------------------------------------------
+2018-12-27T06:19:35.840Z - normal: Simulator: D/jswrapper (368): Initializing V8, version: 6.0.286.52
+2018-12-27T06:19:36.128Z - normal: Simulator: D/jswrapper (813): libuv version: 1.13.1
+2018-12-27T06:19:36.130Z - normal: Simulator: D/jswrapper (112): Debugger listening..., visit [ chrome-devtools://devtools/bundled/inspector.html?v8only=true&ws=0.0.0.0:5086/00010002-0003-4004-8005-000600070008 ] in chrome browser to debug!
+2018-12-27T06:19:36.130Z - normal: Simulator: D/jswrapper (115): For help see https://nodejs.org/en/docs/inspector
+2018-12-27T06:19:36.192Z - normal: Simulator: D/jswrapper (129): JS: Enable batch GL commands optimization!
+2018-12-27T06:19:36.192Z - normal: Simulator: resetDesignResolution request
+2018-12-27T06:19:36.192Z - normal: Simulator: ------------------------------------------------
+2018-12-27T06:19:36.192Z - normal: Simulator: LOAD Js FILE: main.js
+2018-12-27T06:19:36.192Z - normal: Simulator: ------------------------------------------------
+2018-12-27T06:19:36.572Z - normal: Simulator: iShow!
+2018-12-27T06:19:36.588Z - normal: Simulator: D/jswrapper (3708): glGetIntegerv: pname: 0x8b4c
+2018-12-27T06:19:36.589Z - normal: Simulator: D/jswrapper (3708): glGetIntegerv: pname: 0x8869
+2018-12-27T06:19:36.600Z - normal: Simulator: D/jswrapper (129): JS: Cocos Creator v2.0.5
+2018-12-27T06:19:36.761Z - normal: Simulator: D/jswrapper (129): JS: ....onload
+2018-12-27T06:19:44.062Z - normal: Simulator: D/jswrapper (129): JS: begin spin
+2018-12-27T06:19:44.407Z - normal: Simulator: D/jswrapper (129): JS: [WARN]: Since 1.10, `cc.audioEngine` accept cc.AudioClip instance directly, not a URL string. Please directly reference the AudioClip object in your script, or load cc.AudioClip by loader first. Don't use audio's URL anymore.
+2018-12-27T06:19:44.620Z - normal: Simulator: D/jswrapper (129): JS: [WARN]: Since 1.10, `cc.audioEngine` accept cc.AudioClip instance directly, not a URL string. Please directly reference the AudioClip object in your script, or load cc.AudioClip by loader first. Don't use audio's URL anymore.
+2018-12-27T06:19:44.737Z - normal: Simulator: D/jswrapper (129): JS: [WARN]: Since 1.10, `cc.audioEngine` accept cc.AudioClip instance directly, not a URL string. Please directly reference the AudioClip object in your script, or load cc.AudioClip by loader first. Don't use audio's URL anymore.
+2018-12-27T06:19:44.837Z - normal: Simulator: D/jswrapper (129): JS: [WARN]: Since 1.10, `cc.audioEngine` accept cc.AudioClip instance directly, not a URL string. Please directly reference the AudioClip object in your script, or load cc.AudioClip by loader first. Don't use audio's URL anymore.
+2018-12-27T06:19:44.921Z - normal: Simulator: D/jswrapper (129): JS: [WARN]: Since 1.10, `cc.audioEngine` accept cc.AudioClip instance directly, not a URL string. Please directly reference the AudioClip object in your script, or load cc.AudioClip by loader first. Don't use audio's URL anymore.
+2018-12-27T06:19:45.003Z - normal: Simulator: D/jswrapper (129): JS: [WARN]: Since 1.10, `cc.audioEngine` accept cc.AudioClip instance directly, not a URL string. Please directly reference the AudioClip object in your script, or load cc.AudioClip by loader first. Don't use audio's URL anymore.
+2018-12-27T06:19:45.071Z - normal: Simulator: D/jswrapper (129): JS: [WARN]: Since 1.10, `cc.audioEngine` accept cc.AudioClip instance directly, not a URL string. Please directly reference the AudioClip object in your script, or load cc.AudioClip by loader first. Don't use audio's URL anymore.
+2018-12-27T06:19:45.138Z - normal: Simulator: D/jswrapper (129): JS: [WARN]: Since 1.10, `cc.audioEngine` accept cc.AudioClip instance directly, not a URL string. Please directly reference the AudioClip object in your script, or load cc.AudioClip by loader first. Don't use audio's URL anymore.
+2018-12-27T06:19:45.205Z - normal: Simulator: D/jswrapper (129): JS: [WARN]: Since 1.10, `cc.audioEngine` accept cc.AudioClip instance directly, not a URL string. Please directly reference the AudioClip object in your script, or load cc.AudioClip by loader first. Don't use audio's URL anymore.
+2018-12-27T06:19:45.272Z - normal: Simulator: D/jswrapper (129): JS: [WARN]: Since 1.10, `cc.audioEngine` accept cc.AudioClip instance directly, not a URL string. Please directly reference the AudioClip object in your script, or load cc.AudioClip by loader first. Don't use audio's URL anymore.
+2018-12-27T06:19:45.322Z - normal: Simulator: D/jswrapper (129): JS: [WARN]: Since 1.10, `cc.audioEngine` accept cc.AudioClip instance directly, not a URL string. Please directly reference the AudioClip object in your script, or load cc.AudioClip by loader first. Don't use audio's URL anymore.
+2018-12-27T06:19:45.372Z - normal: Simulator: D/jswrapper (129): JS: [WARN]: Since 1.10, `cc.audioEngine` accept cc.AudioClip instance directly, not a URL string. Please directly reference the AudioClip object in your script, or load cc.AudioClip by loader first. Don't use audio's URL anymore.
+2018-12-27T06:19:45.423Z - normal: Simulator: D/jswrapper (129): JS: [WARN]: Since 1.10, `cc.audioEngine` accept cc.AudioClip instance directly, not a URL string. Please directly reference the AudioClip object in your script, or load cc.AudioClip by loader first. Don't use audio's URL anymore.
+2018-12-27T06:19:45.472Z - normal: Simulator: D/jswrapper (129): JS: [WARN]: Since 1.10, `cc.audioEngine` accept cc.AudioClip instance directly, not a URL string. Please directly reference the AudioClip object in your script, or load cc.AudioClip by loader first. Don't use audio's URL anymore.
+2018-12-27T06:19:45.523Z - normal: Simulator: D/jswrapper (129): JS: [WARN]: Since 1.10, `cc.audioEngine` accept cc.AudioClip instance directly, not a URL string. Please directly reference the AudioClip object in your script, or load cc.AudioClip by loader first. Don't use audio's URL anymore.
+2018-12-27T06:19:45.572Z - normal: Simulator: D/jswrapper (129): JS: [WARN]: Since 1.10, `cc.audioEngine` accept cc.AudioClip instance directly, not a URL string. Please directly reference the AudioClip object in your script, or load cc.AudioClip by loader first. Don't use audio's URL anymore.
+2018-12-27T06:19:45.622Z - normal: Simulator: D/jswrapper (129): JS: [WARN]: Since 1.10, `cc.audioEngine` accept cc.AudioClip instance directly, not a URL string. Please directly reference the AudioClip object in your script, or load cc.AudioClip by loader first. Don't use audio's URL anymore.
+2018-12-27T06:19:45.674Z - normal: Simulator: D/jswrapper (129): JS: [WARN]: Since 1.10, `cc.audioEngine` accept cc.AudioClip instance directly, not a URL string. Please directly reference the AudioClip object in your script, or load cc.AudioClip by loader first. Don't use audio's URL anymore.
+2018-12-27T06:19:45.722Z - normal: Simulator: D/jswrapper (129): JS: [WARN]: Since 1.10, `cc.audioEngine` accept cc.AudioClip instance directly, not a URL string. Please directly reference the AudioClip object in your script, or load cc.AudioClip by loader first. Don't use audio's URL anymore.
+2018-12-27T06:19:45.772Z - normal: Simulator: D/jswrapper (129): JS: [WARN]: Since 1.10, `cc.audioEngine` accept cc.AudioClip instance directly, not a URL string. Please directly reference the AudioClip object in your script, or load cc.AudioClip by loader first. Don't use audio's URL anymore.
+2018-12-27T06:19:45.823Z - normal: Simulator: D/jswrapper (129): JS: [WARN]: Since 1.10, `cc.audioEngine` accept cc.AudioClip instance directly, not a URL string. Please directly reference the AudioClip object in your script, or load cc.AudioClip by loader first. Don't use audio's URL anymore.
+2018-12-27T06:19:45.856Z - normal: Simulator: D/jswrapper (129): JS: [WARN]: Since 1.10, `cc.audioEngine` accept cc.AudioClip instance directly, not a URL string. Please directly reference the AudioClip object in your script, or load cc.AudioClip by loader first. Don't use audio's URL anymore.
+2018-12-27T06:19:45.893Z - normal: Simulator: D/jswrapper (129): JS: [WARN]: Since 1.10, `cc.audioEngine` accept cc.AudioClip instance directly, not a URL string. Please directly reference the AudioClip object in your script, or load cc.AudioClip by loader first. Don't use audio's URL anymore.
+2018-12-27T06:19:45.924Z - normal: Simulator: D/jswrapper (129): JS: [WARN]: Since 1.10, `cc.audioEngine` accept cc.AudioClip instance directly, not a URL string. Please directly reference the AudioClip object in your script, or load cc.AudioClip by loader first. Don't use audio's URL anymore.
+2018-12-27T06:19:45.956Z - normal: Simulator: D/jswrapper (129): JS: [WARN]: Since 1.10, `cc.audioEngine` accept cc.AudioClip instance directly, not a URL string. Please directly reference the AudioClip object in your script, or load cc.AudioClip by loader first. Don't use audio's URL anymore.
+2018-12-27T06:19:45.990Z - normal: Simulator: D/jswrapper (129): JS: [WARN]: Since 1.10, `cc.audioEngine` accept cc.AudioClip instance directly, not a URL string. Please directly reference the AudioClip object in your script, or load cc.AudioClip by loader first. Don't use audio's URL anymore.
+2018-12-27T06:19:46.023Z - normal: Simulator: D/jswrapper (129): JS: [WARN]: Since 1.10, `cc.audioEngine` accept cc.AudioClip instance directly, not a URL string. Please directly reference the AudioClip object in your script, or load cc.AudioClip by loader first. Don't use audio's URL anymore.
+2018-12-27T06:19:46.056Z - normal: Simulator: D/jswrapper (129): JS: [WARN]: Since 1.10, `cc.audioEngine` accept cc.AudioClip instance directly, not a URL string. Please directly reference the AudioClip object in your script, or load cc.AudioClip by loader first. Don't use audio's URL anymore.
+2018-12-27T06:19:46.090Z - normal: Simulator: D/jswrapper (129): JS: [WARN]: Since 1.10, `cc.audioEngine` accept cc.AudioClip instance directly, not a URL string. Please directly reference the AudioClip object in your script, or load cc.AudioClip by loader first. Don't use audio's URL anymore.
+2018-12-27T06:19:46.123Z - normal: Simulator: D/jswrapper (129): JS: [WARN]: Since 1.10, `cc.audioEngine` accept cc.AudioClip instance directly, not a URL string. Please directly reference the AudioClip object in your script, or load cc.AudioClip by loader first. Don't use audio's URL anymore.
+2018-12-27T06:19:46.159Z - normal: Simulator: D/jswrapper (129): JS: [WARN]: Since 1.10, `cc.audioEngine` accept cc.AudioClip instance directly, not a URL string. Please directly reference the AudioClip object in your script, or load cc.AudioClip by loader first. Don't use audio's URL anymore.
+2018-12-27T06:19:46.191Z - normal: Simulator: D/jswrapper (129): JS: [WARN]: Since 1.10, `cc.audioEngine` accept cc.AudioClip instance directly, not a URL string. Please directly reference the AudioClip object in your script, or load cc.AudioClip by loader first. Don't use audio's URL anymore.
+2018-12-27T06:19:46.228Z - normal: Simulator: D/jswrapper (129): JS: [WARN]: Since 1.10, `cc.audioEngine` accept cc.AudioClip instance directly, not a URL string. Please directly reference the AudioClip object in your script, or load cc.AudioClip by loader first. Don't use audio's URL anymore.
+2018-12-27T06:19:46.260Z - normal: Simulator: D/jswrapper (129): JS: [WARN]: Since 1.10, `cc.audioEngine` accept cc.AudioClip instance directly, not a URL string. Please directly reference the AudioClip object in your script, or load cc.AudioClip by loader first. Don't use audio's URL anymore.
+2018-12-27T06:19:46.292Z - normal: Simulator: D/jswrapper (129): JS: [WARN]: Since 1.10, `cc.audioEngine` accept cc.AudioClip instance directly, not a URL string. Please directly reference the AudioClip object in your script, or load cc.AudioClip by loader first. Don't use audio's URL anymore.
+2018-12-27T06:19:46.329Z - normal: Simulator: D/jswrapper (129): JS: [WARN]: Since 1.10, `cc.audioEngine` accept cc.AudioClip instance directly, not a URL string. Please directly reference the AudioClip object in your script, or load cc.AudioClip by loader first. Don't use audio's URL anymore.
+2018-12-27T06:19:46.360Z - normal: Simulator: D/jswrapper (129): JS: [WARN]: Since 1.10, `cc.audioEngine` accept cc.AudioClip instance directly, not a URL string. Please directly reference the AudioClip object in your script, or load cc.AudioClip by loader first. Don't use audio's URL anymore.
+2018-12-27T06:19:46.393Z - normal: Simulator: D/jswrapper (129): JS: [WARN]: Since 1.10, `cc.audioEngine` accept cc.AudioClip instance directly, not a URL string. Please directly reference the AudioClip object in your script, or load cc.AudioClip by loader first. Don't use audio's URL anymore.
+2018-12-27T06:19:46.432Z - normal: Simulator: D/jswrapper (129): JS: [WARN]: Since 1.10, `cc.audioEngine` accept cc.AudioClip instance directly, not a URL string. Please directly reference the AudioClip object in your script, or load cc.AudioClip by loader first. Don't use audio's URL anymore.
+2018-12-27T06:19:46.462Z - normal: Simulator: D/jswrapper (129): JS: [WARN]: Since 1.10, `cc.audioEngine` accept cc.AudioClip instance directly, not a URL string. Please directly reference the AudioClip object in your script, or load cc.AudioClip by loader first. Don't use audio's URL anymore.
+2018-12-27T06:19:46.495Z - normal: Simulator: D/jswrapper (129): JS: [WARN]: Since 1.10, `cc.audioEngine` accept cc.AudioClip instance directly, not a URL string. Please directly reference the AudioClip object in your script, or load cc.AudioClip by loader first. Don't use audio's URL anymore.
+2018-12-27T06:19:46.529Z - normal: Simulator: D/jswrapper (129): JS: [WARN]: Since 1.10, `cc.audioEngine` accept cc.AudioClip instance directly, not a URL string. Please directly reference the AudioClip object in your script, or load cc.AudioClip by loader first. Don't use audio's URL anymore.
+2018-12-27T06:19:46.563Z - normal: Simulator: D/jswrapper (129): JS: [WARN]: Since 1.10, `cc.audioEngine` accept cc.AudioClip instance directly, not a URL string. Please directly reference the AudioClip object in your script, or load cc.AudioClip by loader first. Don't use audio's URL anymore.
+2018-12-27T06:19:46.596Z - normal: Simulator: D/jswrapper (129): JS: [WARN]: Since 1.10, `cc.audioEngine` accept cc.AudioClip instance directly, not a URL string. Please directly reference the AudioClip object in your script, or load cc.AudioClip by loader first. Don't use audio's URL anymore.
+2018-12-27T06:19:46.629Z - normal: Simulator: D/jswrapper (129): JS: [WARN]: Since 1.10, `cc.audioEngine` accept cc.AudioClip instance directly, not a URL string. Please directly reference the AudioClip object in your script, or load cc.AudioClip by loader first. Don't use audio's URL anymore.
+2018-12-27T06:19:46.662Z - normal: Simulator: D/jswrapper (129): JS: [WARN]: Since 1.10, `cc.audioEngine` accept cc.AudioClip instance directly, not a URL string. Please directly reference the AudioClip object in your script, or load cc.AudioClip by loader first. Don't use audio's URL anymore.
+2018-12-27T06:19:46.696Z - normal: Simulator: D/jswrapper (129): JS: [WARN]: Since 1.10, `cc.audioEngine` accept cc.AudioClip instance directly, not a URL string. Please directly reference the AudioClip object in your script, or load cc.AudioClip by loader first. Don't use audio's URL anymore.
+2018-12-27T06:19:46.729Z - normal: Simulator: D/jswrapper (129): JS: [WARN]: Since 1.10, `cc.audioEngine` accept cc.AudioClip instance directly, not a URL string. Please directly reference the AudioClip object in your script, or load cc.AudioClip by loader first. Don't use audio's URL anymore.
+2018-12-27T06:19:46.763Z - normal: Simulator: D/jswrapper (129): JS: [WARN]: Since 1.10, `cc.audioEngine` accept cc.AudioClip instance directly, not a URL string. Please directly reference the AudioClip object in your script, or load cc.AudioClip by loader first. Don't use audio's URL anymore.
+2018-12-27T06:19:46.796Z - normal: Simulator: D/jswrapper (129): JS: [WARN]: Since 1.10, `cc.audioEngine` accept cc.AudioClip instance directly, not a URL string. Please directly reference the AudioClip object in your script, or load cc.AudioClip by loader first. Don't use audio's URL anymore.
+2018-12-27T06:19:46.829Z - normal: Simulator: D/jswrapper (129): JS: [WARN]: Since 1.10, `cc.audioEngine` accept cc.AudioClip instance directly, not a URL string. Please directly reference the AudioClip object in your script, or load cc.AudioClip by loader first. Don't use audio's URL anymore.
+2018-12-27T06:19:46.866Z - normal: Simulator: D/jswrapper (129): JS: [WARN]: Since 1.10, `cc.audioEngine` accept cc.AudioClip instance directly, not a URL string. Please directly reference the AudioClip object in your script, or load cc.AudioClip by loader first. Don't use audio's URL anymore.
+2018-12-27T06:19:46.898Z - normal: Simulator: D/jswrapper (129): JS: [WARN]: Since 1.10, `cc.audioEngine` accept cc.AudioClip instance directly, not a URL string. Please directly reference the AudioClip object in your script, or load cc.AudioClip by loader first. Don't use audio's URL anymore.
+2018-12-27T06:19:46.931Z - normal: Simulator: D/jswrapper (129): JS: [WARN]: Since 1.10, `cc.audioEngine` accept cc.AudioClip instance directly, not a URL string. Please directly reference the AudioClip object in your script, or load cc.AudioClip by loader first. Don't use audio's URL anymore.
+2018-12-27T06:19:46.964Z - normal: Simulator: D/jswrapper (129): JS: [WARN]: Since 1.10, `cc.audioEngine` accept cc.AudioClip instance directly, not a URL string. Please directly reference the AudioClip object in your script, or load cc.AudioClip by loader first. Don't use audio's URL anymore.
+2018-12-27T06:19:46.998Z - normal: Simulator: D/jswrapper (129): JS: [WARN]: Since 1.10, `cc.audioEngine` accept cc.AudioClip instance directly, not a URL string. Please directly reference the AudioClip object in your script, or load cc.AudioClip by loader first. Don't use audio's URL anymore.
+2018-12-27T06:19:47.032Z - normal: Simulator: D/jswrapper (129): JS: [WARN]: Since 1.10, `cc.audioEngine` accept cc.AudioClip instance directly, not a URL string. Please directly reference the AudioClip object in your script, or load cc.AudioClip by loader first. Don't use audio's URL anymore.
+2018-12-27T06:19:47.064Z - normal: Simulator: D/jswrapper (129): JS: [WARN]: Since 1.10, `cc.audioEngine` accept cc.AudioClip instance directly, not a URL string. Please directly reference the AudioClip object in your script, or load cc.AudioClip by loader first. Don't use audio's URL anymore.
+2018-12-27T06:19:47.098Z - normal: Simulator: D/jswrapper (129): JS: [WARN]: Since 1.10, `cc.audioEngine` accept cc.AudioClip instance directly, not a URL string. Please directly reference the AudioClip object in your script, or load cc.AudioClip by loader first. Don't use audio's URL anymore.
+2018-12-27T06:19:47.132Z - normal: Simulator: D/jswrapper (129): JS: [WARN]: Since 1.10, `cc.audioEngine` accept cc.AudioClip instance directly, not a URL string. Please directly reference the AudioClip object in your script, or load cc.AudioClip by loader first. Don't use audio's URL anymore.
+2018-12-27T06:19:47.172Z - normal: Simulator: D/jswrapper (129): JS: [WARN]: Since 1.10, `cc.audioEngine` accept cc.AudioClip instance directly, not a URL string. Please directly reference the AudioClip object in your script, or load cc.AudioClip by loader first. Don't use audio's URL anymore.
+2018-12-27T06:19:47.206Z - normal: Simulator: D/jswrapper (129): JS: [WARN]: Since 1.10, `cc.audioEngine` accept cc.AudioClip instance directly, not a URL string. Please directly reference the AudioClip object in your script, or load cc.AudioClip by loader first. Don't use audio's URL anymore.
+2018-12-27T06:19:47.240Z - normal: Simulator: D/jswrapper (129): JS: [WARN]: Since 1.10, `cc.audioEngine` accept cc.AudioClip instance directly, not a URL string. Please directly reference the AudioClip object in your script, or load cc.AudioClip by loader first. Don't use audio's URL anymore.
+2018-12-27T06:19:47.273Z - normal: Simulator: D/jswrapper (129): JS: [WARN]: Since 1.10, `cc.audioEngine` accept cc.AudioClip instance directly, not a URL string. Please directly reference the AudioClip object in your script, or load cc.AudioClip by loader first. Don't use audio's URL anymore.
+2018-12-27T06:19:47.324Z - normal: Simulator: D/jswrapper (129): JS: [WARN]: Since 1.10, `cc.audioEngine` accept cc.AudioClip instance directly, not a URL string. Please directly reference the AudioClip object in your script, or load cc.AudioClip by loader first. Don't use audio's URL anymore.
+2018-12-27T06:19:47.373Z - normal: Simulator: D/jswrapper (129): JS: [WARN]: Since 1.10, `cc.audioEngine` accept cc.AudioClip instance directly, not a URL string. Please directly reference the AudioClip object in your script, or load cc.AudioClip by loader first. Don't use audio's URL anymore.
+2018-12-27T06:19:47.423Z - normal: Simulator: D/jswrapper (129): JS: [WARN]: Since 1.10, `cc.audioEngine` accept cc.AudioClip instance directly, not a URL string. Please directly reference the AudioClip object in your script, or load cc.AudioClip by loader first. Don't use audio's URL anymore.
+2018-12-27T06:19:47.473Z - normal: Simulator: D/jswrapper (129): JS: [WARN]: Since 1.10, `cc.audioEngine` accept cc.AudioClip instance directly, not a URL string. Please directly reference the AudioClip object in your script, or load cc.AudioClip by loader first. Don't use audio's URL anymore.
+2018-12-27T06:19:47.523Z - normal: Simulator: D/jswrapper (129): JS: [WARN]: Since 1.10, `cc.audioEngine` accept cc.AudioClip instance directly, not a URL string. Please directly reference the AudioClip object in your script, or load cc.AudioClip by loader first. Don't use audio's URL anymore.
+2018-12-27T06:19:47.573Z - normal: Simulator: D/jswrapper (129): JS: [WARN]: Since 1.10, `cc.audioEngine` accept cc.AudioClip instance directly, not a URL string. Please directly reference the AudioClip object in your script, or load cc.AudioClip by loader first. Don't use audio's URL anymore.
+2018-12-27T06:19:47.625Z - normal: Simulator: D/jswrapper (129): JS: [WARN]: Since 1.10, `cc.audioEngine` accept cc.AudioClip instance directly, not a URL string. Please directly reference the AudioClip object in your script, or load cc.AudioClip by loader first. Don't use audio's URL anymore.
+2018-12-27T06:19:47.674Z - normal: Simulator: D/jswrapper (129): JS: [WARN]: Since 1.10, `cc.audioEngine` accept cc.AudioClip instance directly, not a URL string. Please directly reference the AudioClip object in your script, or load cc.AudioClip by loader first. Don't use audio's URL anymore.
+2018-12-27T06:19:47.740Z - normal: Simulator: D/jswrapper (129): JS: [WARN]: Since 1.10, `cc.audioEngine` accept cc.AudioClip instance directly, not a URL string. Please directly reference the AudioClip object in your script, or load cc.AudioClip by loader first. Don't use audio's URL anymore.
+2018-12-27T06:19:47.807Z - normal: Simulator: D/jswrapper (129): JS: [WARN]: Since 1.10, `cc.audioEngine` accept cc.AudioClip instance directly, not a URL string. Please directly reference the AudioClip object in your script, or load cc.AudioClip by loader first. Don't use audio's URL anymore.
+2018-12-27T06:19:47.873Z - normal: Simulator: D/jswrapper (129): JS: [WARN]: Since 1.10, `cc.audioEngine` accept cc.AudioClip instance directly, not a URL string. Please directly reference the AudioClip object in your script, or load cc.AudioClip by loader first. Don't use audio's URL anymore.
+2018-12-27T06:19:47.940Z - normal: Simulator: D/jswrapper (129): JS: [WARN]: Since 1.10, `cc.audioEngine` accept cc.AudioClip instance directly, not a URL string. Please directly reference the AudioClip object in your script, or load cc.AudioClip by loader first. Don't use audio's URL anymore.
+2018-12-27T06:19:48.024Z - normal: Simulator: D/jswrapper (129): JS: [WARN]: Since 1.10, `cc.audioEngine` accept cc.AudioClip instance directly, not a URL string. Please directly reference the AudioClip object in your script, or load cc.AudioClip by loader first. Don't use audio's URL anymore.
+2018-12-27T06:19:48.107Z - normal: Simulator: D/jswrapper (129): JS: [WARN]: Since 1.10, `cc.audioEngine` accept cc.AudioClip instance directly, not a URL string. Please directly reference the AudioClip object in your script, or load cc.AudioClip by loader first. Don't use audio's URL anymore.
+2018-12-27T06:19:48.191Z - normal: Simulator: D/jswrapper (129): JS: [WARN]: Since 1.10, `cc.audioEngine` accept cc.AudioClip instance directly, not a URL string. Please directly reference the AudioClip object in your script, or load cc.AudioClip by loader first. Don't use audio's URL anymore.
+2018-12-27T06:19:48.291Z - normal: Simulator: D/jswrapper (129): JS: [WARN]: Since 1.10, `cc.audioEngine` accept cc.AudioClip instance directly, not a URL string. Please directly reference the AudioClip object in your script, or load cc.AudioClip by loader first. Don't use audio's URL anymore.
+2018-12-27T06:19:48.392Z - normal: Simulator: D/jswrapper (129): JS: [WARN]: Since 1.10, `cc.audioEngine` accept cc.AudioClip instance directly, not a URL string. Please directly reference the AudioClip object in your script, or load cc.AudioClip by loader first. Don't use audio's URL anymore.
+2018-12-27T06:19:48.508Z - normal: Simulator: D/jswrapper (129): JS: [WARN]: Since 1.10, `cc.audioEngine` accept cc.AudioClip instance directly, not a URL string. Please directly reference the AudioClip object in your script, or load cc.AudioClip by loader first. Don't use audio's URL anymore.
+2018-12-27T06:19:48.645Z - normal: Simulator: D/jswrapper (129): JS: [WARN]: Since 1.10, `cc.audioEngine` accept cc.AudioClip instance directly, not a URL string. Please directly reference the AudioClip object in your script, or load cc.AudioClip by loader first. Don't use audio's URL anymore.
+2018-12-27T06:19:48.795Z - normal: Simulator: D/jswrapper (129): JS: [WARN]: Since 1.10, `cc.audioEngine` accept cc.AudioClip instance directly, not a URL string. Please directly reference the AudioClip object in your script, or load cc.AudioClip by loader first. Don't use audio's URL anymore.
+2018-12-27T06:19:48.998Z - normal: Simulator: D/jswrapper (129): JS: [WARN]: Since 1.10, `cc.audioEngine` accept cc.AudioClip instance directly, not a URL string. Please directly reference the AudioClip object in your script, or load cc.AudioClip by loader first. Don't use audio's URL anymore.
+2018-12-27T06:19:49.221Z - normal: Simulator: D/jswrapper (129): JS: [WARN]: Since 1.10, `cc.audioEngine` accept cc.AudioClip instance directly, not a URL string. Please directly reference the AudioClip object in your script, or load cc.AudioClip by loader first. Don't use audio's URL anymore.
+2018-12-27T06:19:49.488Z - normal: Simulator: D/jswrapper (129): JS: [WARN]: Since 1.10, `cc.audioEngine` accept cc.AudioClip instance directly, not a URL string. Please directly reference the AudioClip object in your script, or load cc.AudioClip by loader first. Don't use audio's URL anymore.
+2018-12-27T06:19:49.857Z - normal: Simulator: D/jswrapper (129): JS: [WARN]: Since 1.10, `cc.audioEngine` accept cc.AudioClip instance directly, not a URL string. Please directly reference the AudioClip object in your script, or load cc.AudioClip by loader first. Don't use audio's URL anymore.
+2018-12-27T06:19:50.471Z - normal: Simulator: D/jswrapper (129): JS: [WARN]: Since 1.10, `cc.audioEngine` accept cc.AudioClip instance directly, not a URL string. Please directly reference the AudioClip object in your script, or load cc.AudioClip by loader first. Don't use audio's URL anymore.
+2018-12-27T06:19:51.189Z - normal: Simulator: D/jswrapper (129): JS: 2x
+2018-12-27T06:20:09.305Z - normal: Simulator: D/jswrapper (129): JS: begin spin
+2018-12-27T06:20:09.507Z - normal: Simulator: D/jswrapper (129): JS: [WARN]: Since 1.10, `cc.audioEngine` accept cc.AudioClip instance directly, not a URL string. Please directly reference the AudioClip object in your script, or load cc.AudioClip by loader first. Don't use audio's URL anymore.
+2018-12-27T06:20:09.707Z - normal: Simulator: D/jswrapper (129): JS: [WARN]: Since 1.10, `cc.audioEngine` accept cc.AudioClip instance directly, not a URL string. Please directly reference the AudioClip object in your script, or load cc.AudioClip by loader first. Don't use audio's URL anymore.
+2018-12-27T06:20:09.841Z - normal: Simulator: D/jswrapper (129): JS: [WARN]: Since 1.10, `cc.audioEngine` accept cc.AudioClip instance directly, not a URL string. Please directly reference the AudioClip object in your script, or load cc.AudioClip by loader first. Don't use audio's URL anymore.
+2018-12-27T06:20:09.940Z - normal: Simulator: D/jswrapper (129): JS: [WARN]: Since 1.10, `cc.audioEngine` accept cc.AudioClip instance directly, not a URL string. Please directly reference the AudioClip object in your script, or load cc.AudioClip by loader first. Don't use audio's URL anymore.
+2018-12-27T06:20:10.024Z - normal: Simulator: D/jswrapper (129): JS: [WARN]: Since 1.10, `cc.audioEngine` accept cc.AudioClip instance directly, not a URL string. Please directly reference the AudioClip object in your script, or load cc.AudioClip by loader first. Don't use audio's URL anymore.
+2018-12-27T06:20:10.121Z - normal: Simulator: D/jswrapper (129): JS: [WARN]: Since 1.10, `cc.audioEngine` accept cc.AudioClip instance directly, not a URL string. Please directly reference the AudioClip object in your script, or load cc.AudioClip by loader first. Don't use audio's URL anymore.
+2018-12-27T06:20:10.189Z - normal: Simulator: D/jswrapper (129): JS: [WARN]: Since 1.10, `cc.audioEngine` accept cc.AudioClip instance directly, not a URL string. Please directly reference the AudioClip object in your script, or load cc.AudioClip by loader first. Don't use audio's URL anymore.
+2018-12-27T06:20:10.282Z - normal: Simulator: D/jswrapper (129): JS: [WARN]: Since 1.10, `cc.audioEngine` accept cc.AudioClip instance directly, not a URL string. Please directly reference the AudioClip object in your script, or load cc.AudioClip by loader first. Don't use audio's URL anymore.
+2018-12-27T06:20:10.348Z - normal: Simulator: D/jswrapper (129): JS: [WARN]: Since 1.10, `cc.audioEngine` accept cc.AudioClip instance directly, not a URL string. Please directly reference the AudioClip object in your script, or load cc.AudioClip by loader first. Don't use audio's URL anymore.
+2018-12-27T06:20:10.415Z - normal: Simulator: D/jswrapper (129): JS: [WARN]: Since 1.10, `cc.audioEngine` accept cc.AudioClip instance directly, not a URL string. Please directly reference the AudioClip object in your script, or load cc.AudioClip by loader first. Don't use audio's URL anymore.
+2018-12-27T06:20:10.482Z - normal: Simulator: D/jswrapper (129): JS: [WARN]: Since 1.10, `cc.audioEngine` accept cc.AudioClip instance directly, not a URL string. Please directly reference the AudioClip object in your script, or load cc.AudioClip by loader first. Don't use audio's URL anymore.
+2018-12-27T06:20:10.533Z - normal: Simulator: D/jswrapper (129): JS: [WARN]: Since 1.10, `cc.audioEngine` accept cc.AudioClip instance directly, not a URL string. Please directly reference the AudioClip object in your script, or load cc.AudioClip by loader first. Don't use audio's URL anymore.
+2018-12-27T06:20:10.584Z - normal: Simulator: D/jswrapper (129): JS: [WARN]: Since 1.10, `cc.audioEngine` accept cc.AudioClip instance directly, not a URL string. Please directly reference the AudioClip object in your script, or load cc.AudioClip by loader first. Don't use audio's URL anymore.
+2018-12-27T06:20:10.633Z - normal: Simulator: D/jswrapper (129): JS: [WARN]: Since 1.10, `cc.audioEngine` accept cc.AudioClip instance directly, not a URL string. Please directly reference the AudioClip object in your script, or load cc.AudioClip by loader first. Don't use audio's URL anymore.
+2018-12-27T06:20:10.684Z - normal: Simulator: D/jswrapper (129): JS: [WARN]: Since 1.10, `cc.audioEngine` accept cc.AudioClip instance directly, not a URL string. Please directly reference the AudioClip object in your script, or load cc.AudioClip by loader first. Don't use audio's URL anymore.
+2018-12-27T06:20:10.734Z - normal: Simulator: D/jswrapper (129): JS: [WARN]: Since 1.10, `cc.audioEngine` accept cc.AudioClip instance directly, not a URL string. Please directly reference the AudioClip object in your script, or load cc.AudioClip by loader first. Don't use audio's URL anymore.
+2018-12-27T06:20:10.784Z - normal: Simulator: D/jswrapper (129): JS: [WARN]: Since 1.10, `cc.audioEngine` accept cc.AudioClip instance directly, not a URL string. Please directly reference the AudioClip object in your script, or load cc.AudioClip by loader first. Don't use audio's URL anymore.
+2018-12-27T06:20:10.849Z - normal: Simulator: D/jswrapper (129): JS: [WARN]: Since 1.10, `cc.audioEngine` accept cc.AudioClip instance directly, not a URL string. Please directly reference the AudioClip object in your script, or load cc.AudioClip by loader first. Don't use audio's URL anymore.
+2018-12-27T06:20:10.889Z - normal: Simulator: D/jswrapper (129): JS: [WARN]: Since 1.10, `cc.audioEngine` accept cc.AudioClip instance directly, not a URL string. Please directly reference the AudioClip object in your script, or load cc.AudioClip by loader first. Don't use audio's URL anymore.
+2018-12-27T06:20:10.939Z - normal: Simulator: D/jswrapper (129): JS: [WARN]: Since 1.10, `cc.audioEngine` accept cc.AudioClip instance directly, not a URL string. Please directly reference the AudioClip object in your script, or load cc.AudioClip by loader first. Don't use audio's URL anymore.
+2018-12-27T06:20:10.989Z - normal: Simulator: D/jswrapper (129): JS: [WARN]: Since 1.10, `cc.audioEngine` accept cc.AudioClip instance directly, not a URL string. Please directly reference the AudioClip object in your script, or load cc.AudioClip by loader first. Don't use audio's URL anymore.
+2018-12-27T06:20:11.039Z - normal: Simulator: D/jswrapper (129): JS: [WARN]: Since 1.10, `cc.audioEngine` accept cc.AudioClip instance directly, not a URL string. Please directly reference the AudioClip object in your script, or load cc.AudioClip by loader first. Don't use audio's URL anymore.
+2018-12-27T06:20:11.073Z - normal: Simulator: D/jswrapper (129): JS: [WARN]: Since 1.10, `cc.audioEngine` accept cc.AudioClip instance directly, not a URL string. Please directly reference the AudioClip object in your script, or load cc.AudioClip by loader first. Don't use audio's URL anymore.
+2018-12-27T06:20:11.106Z - normal: Simulator: D/jswrapper (129): JS: [WARN]: Since 1.10, `cc.audioEngine` accept cc.AudioClip instance directly, not a URL string. Please directly reference the AudioClip object in your script, or load cc.AudioClip by loader first. Don't use audio's URL anymore.
+2018-12-27T06:20:11.140Z - normal: Simulator: D/jswrapper (129): JS: [WARN]: Since 1.10, `cc.audioEngine` accept cc.AudioClip instance directly, not a URL string. Please directly reference the AudioClip object in your script, or load cc.AudioClip by loader first. Don't use audio's URL anymore.
+2018-12-27T06:20:11.179Z - normal: Simulator: D/jswrapper (129): JS: [WARN]: Since 1.10, `cc.audioEngine` accept cc.AudioClip instance directly, not a URL string. Please directly reference the AudioClip object in your script, or load cc.AudioClip by loader first. Don't use audio's URL anymore.
+2018-12-27T06:20:11.212Z - normal: Simulator: D/jswrapper (129): JS: [WARN]: Since 1.10, `cc.audioEngine` accept cc.AudioClip instance directly, not a URL string. Please directly reference the AudioClip object in your script, or load cc.AudioClip by loader first. Don't use audio's URL anymore.
+2018-12-27T06:20:11.248Z - normal: Simulator: D/jswrapper (129): JS: [WARN]: Since 1.10, `cc.audioEngine` accept cc.AudioClip instance directly, not a URL string. Please directly reference the AudioClip object in your script, or load cc.AudioClip by loader first. Don't use audio's URL anymore.
+2018-12-27T06:20:11.280Z - normal: Simulator: D/jswrapper (129): JS: [WARN]: Since 1.10, `cc.audioEngine` accept cc.AudioClip instance directly, not a URL string. Please directly reference the AudioClip object in your script, or load cc.AudioClip by loader first. Don't use audio's URL anymore.
+2018-12-27T06:20:11.315Z - normal: Simulator: D/jswrapper (129): JS: [WARN]: Since 1.10, `cc.audioEngine` accept cc.AudioClip instance directly, not a URL string. Please directly reference the AudioClip object in your script, or load cc.AudioClip by loader first. Don't use audio's URL anymore.
+2018-12-27T06:20:11.346Z - normal: Simulator: D/jswrapper (129): JS: [WARN]: Since 1.10, `cc.audioEngine` accept cc.AudioClip instance directly, not a URL string. Please directly reference the AudioClip object in your script, or load cc.AudioClip by loader first. Don't use audio's URL anymore.
+2018-12-27T06:20:11.380Z - normal: Simulator: D/jswrapper (129): JS: [WARN]: Since 1.10, `cc.audioEngine` accept cc.AudioClip instance directly, not a URL string. Please directly reference the AudioClip object in your script, or load cc.AudioClip by loader first. Don't use audio's URL anymore.
+2018-12-27T06:20:11.413Z - normal: Simulator: D/jswrapper (129): JS: [WARN]: Since 1.10, `cc.audioEngine` accept cc.AudioClip instance directly, not a URL string. Please directly reference the AudioClip object in your script, or load cc.AudioClip by loader first. Don't use audio's URL anymore.
+2018-12-27T06:20:11.447Z - normal: Simulator: D/jswrapper (129): JS: [WARN]: Since 1.10, `cc.audioEngine` accept cc.AudioClip instance directly, not a URL string. Please directly reference the AudioClip object in your script, or load cc.AudioClip by loader first. Don't use audio's URL anymore.
+2018-12-27T06:20:11.480Z - normal: Simulator: D/jswrapper (129): JS: [WARN]: Since 1.10, `cc.audioEngine` accept cc.AudioClip instance directly, not a URL string. Please directly reference the AudioClip object in your script, or load cc.AudioClip by loader first. Don't use audio's URL anymore.
+2018-12-27T06:20:11.513Z - normal: Simulator: D/jswrapper (129): JS: [WARN]: Since 1.10, `cc.audioEngine` accept cc.AudioClip instance directly, not a URL string. Please directly reference the AudioClip object in your script, or load cc.AudioClip by loader first. Don't use audio's URL anymore.
+2018-12-27T06:20:11.548Z - normal: Simulator: D/jswrapper (129): JS: [WARN]: Since 1.10, `cc.audioEngine` accept cc.AudioClip instance directly, not a URL string. Please directly reference the AudioClip object in your script, or load cc.AudioClip by loader first. Don't use audio's URL anymore.
+2018-12-27T06:20:11.583Z - normal: Simulator: D/jswrapper (129): JS: [WARN]: Since 1.10, `cc.audioEngine` accept cc.AudioClip instance directly, not a URL string. Please directly reference the AudioClip object in your script, or load cc.AudioClip by loader first. Don't use audio's URL anymore.
+2018-12-27T06:20:11.613Z - normal: Simulator: D/jswrapper (129): JS: [WARN]: Since 1.10, `cc.audioEngine` accept cc.AudioClip instance directly, not a URL string. Please directly reference the AudioClip object in your script, or load cc.AudioClip by loader first. Don't use audio's URL anymore.
+2018-12-27T06:20:11.646Z - normal: Simulator: D/jswrapper (129): JS: [WARN]: Since 1.10, `cc.audioEngine` accept cc.AudioClip instance directly, not a URL string. Please directly reference the AudioClip object in your script, or load cc.AudioClip by loader first. Don't use audio's URL anymore.
+2018-12-27T06:20:11.680Z - normal: Simulator: D/jswrapper (129): JS: [WARN]: Since 1.10, `cc.audioEngine` accept cc.AudioClip instance directly, not a URL string. Please directly reference the AudioClip object in your script, or load cc.AudioClip by loader first. Don't use audio's URL anymore.
+2018-12-27T06:20:11.713Z - normal: Simulator: D/jswrapper (129): JS: [WARN]: Since 1.10, `cc.audioEngine` accept cc.AudioClip instance directly, not a URL string. Please directly reference the AudioClip object in your script, or load cc.AudioClip by loader first. Don't use audio's URL anymore.
+2018-12-27T06:20:11.748Z - normal: Simulator: D/jswrapper (129): JS: [WARN]: Since 1.10, `cc.audioEngine` accept cc.AudioClip instance directly, not a URL string. Please directly reference the AudioClip object in your script, or load cc.AudioClip by loader first. Don't use audio's URL anymore.
+2018-12-27T06:20:11.781Z - normal: Simulator: D/jswrapper (129): JS: [WARN]: Since 1.10, `cc.audioEngine` accept cc.AudioClip instance directly, not a URL string. Please directly reference the AudioClip object in your script, or load cc.AudioClip by loader first. Don't use audio's URL anymore.
+2018-12-27T06:20:11.822Z - normal: Simulator: D/jswrapper (129): JS: [WARN]: Since 1.10, `cc.audioEngine` accept cc.AudioClip instance directly, not a URL string. Please directly reference the AudioClip object in your script, or load cc.AudioClip by loader first. Don't use audio's URL anymore.
+2018-12-27T06:20:11.855Z - normal: Simulator: D/jswrapper (129): JS: [WARN]: Since 1.10, `cc.audioEngine` accept cc.AudioClip instance directly, not a URL string. Please directly reference the AudioClip object in your script, or load cc.AudioClip by loader first. Don't use audio's URL anymore.
+2018-12-27T06:20:11.890Z - normal: Simulator: D/jswrapper (129): JS: [WARN]: Since 1.10, `cc.audioEngine` accept cc.AudioClip instance directly, not a URL string. Please directly reference the AudioClip object in your script, or load cc.AudioClip by loader first. Don't use audio's URL anymore.
+2018-12-27T06:20:11.922Z - normal: Simulator: D/jswrapper (129): JS: [WARN]: Since 1.10, `cc.audioEngine` accept cc.AudioClip instance directly, not a URL string. Please directly reference the AudioClip object in your script, or load cc.AudioClip by loader first. Don't use audio's URL anymore.
+2018-12-27T06:20:11.956Z - normal: Simulator: D/jswrapper (129): JS: [WARN]: Since 1.10, `cc.audioEngine` accept cc.AudioClip instance directly, not a URL string. Please directly reference the AudioClip object in your script, or load cc.AudioClip by loader first. Don't use audio's URL anymore.
+2018-12-27T06:20:11.989Z - normal: Simulator: D/jswrapper (129): JS: [WARN]: Since 1.10, `cc.audioEngine` accept cc.AudioClip instance directly, not a URL string. Please directly reference the AudioClip object in your script, or load cc.AudioClip by loader first. Don't use audio's URL anymore.
+2018-12-27T06:20:12.023Z - normal: Simulator: D/jswrapper (129): JS: [WARN]: Since 1.10, `cc.audioEngine` accept cc.AudioClip instance directly, not a URL string. Please directly reference the AudioClip object in your script, or load cc.AudioClip by loader first. Don't use audio's URL anymore.
+2018-12-27T06:20:12.056Z - normal: Simulator: D/jswrapper (129): JS: [WARN]: Since 1.10, `cc.audioEngine` accept cc.AudioClip instance directly, not a URL string. Please directly reference the AudioClip object in your script, or load cc.AudioClip by loader first. Don't use audio's URL anymore.
+2018-12-27T06:20:12.090Z - normal: Simulator: D/jswrapper (129): JS: [WARN]: Since 1.10, `cc.audioEngine` accept cc.AudioClip instance directly, not a URL string. Please directly reference the AudioClip object in your script, or load cc.AudioClip by loader first. Don't use audio's URL anymore.
+2018-12-27T06:20:12.123Z - normal: Simulator: D/jswrapper (129): JS: [WARN]: Since 1.10, `cc.audioEngine` accept cc.AudioClip instance directly, not a URL string. Please directly reference the AudioClip object in your script, or load cc.AudioClip by loader first. Don't use audio's URL anymore.
+2018-12-27T06:20:12.156Z - normal: Simulator: D/jswrapper (129): JS: [WARN]: Since 1.10, `cc.audioEngine` accept cc.AudioClip instance directly, not a URL string. Please directly reference the AudioClip object in your script, or load cc.AudioClip by loader first. Don't use audio's URL anymore.
+2018-12-27T06:20:12.192Z - normal: Simulator: D/jswrapper (129): JS: [WARN]: Since 1.10, `cc.audioEngine` accept cc.AudioClip instance directly, not a URL string. Please directly reference the AudioClip object in your script, or load cc.AudioClip by loader first. Don't use audio's URL anymore.
+2018-12-27T06:20:12.226Z - normal: Simulator: D/jswrapper (129): JS: [WARN]: Since 1.10, `cc.audioEngine` accept cc.AudioClip instance directly, not a URL string. Please directly reference the AudioClip object in your script, or load cc.AudioClip by loader first. Don't use audio's URL anymore.
+2018-12-27T06:20:12.259Z - normal: Simulator: D/jswrapper (129): JS: [WARN]: Since 1.10, `cc.audioEngine` accept cc.AudioClip instance directly, not a URL string. Please directly reference the AudioClip object in your script, or load cc.AudioClip by loader first. Don't use audio's URL anymore.
+2018-12-27T06:20:12.293Z - normal: Simulator: D/jswrapper (129): JS: [WARN]: Since 1.10, `cc.audioEngine` accept cc.AudioClip instance directly, not a URL string. Please directly reference the AudioClip object in your script, or load cc.AudioClip by loader first. Don't use audio's URL anymore.
+2018-12-27T06:20:12.327Z - normal: Simulator: D/jswrapper (129): JS: [WARN]: Since 1.10, `cc.audioEngine` accept cc.AudioClip instance directly, not a URL string. Please directly reference the AudioClip object in your script, or load cc.AudioClip by loader first. Don't use audio's URL anymore.
+2018-12-27T06:20:12.360Z - normal: Simulator: D/jswrapper (129): JS: [WARN]: Since 1.10, `cc.audioEngine` accept cc.AudioClip instance directly, not a URL string. Please directly reference the AudioClip object in your script, or load cc.AudioClip by loader first. Don't use audio's URL anymore.
+2018-12-27T06:20:12.397Z - normal: Simulator: D/jswrapper (129): JS: [WARN]: Since 1.10, `cc.audioEngine` accept cc.AudioClip instance directly, not a URL string. Please directly reference the AudioClip object in your script, or load cc.AudioClip by loader first. Don't use audio's URL anymore.
+2018-12-27T06:20:12.428Z - normal: Simulator: D/jswrapper (129): JS: [WARN]: Since 1.10, `cc.audioEngine` accept cc.AudioClip instance directly, not a URL string. Please directly reference the AudioClip object in your script, or load cc.AudioClip by loader first. Don't use audio's URL anymore.
+2018-12-27T06:20:12.459Z - normal: Simulator: D/jswrapper (129): JS: [WARN]: Since 1.10, `cc.audioEngine` accept cc.AudioClip instance directly, not a URL string. Please directly reference the AudioClip object in your script, or load cc.AudioClip by loader first. Don't use audio's URL anymore.
+2018-12-27T06:20:12.496Z - normal: Simulator: D/jswrapper (129): JS: [WARN]: Since 1.10, `cc.audioEngine` accept cc.AudioClip instance directly, not a URL string. Please directly reference the AudioClip object in your script, or load cc.AudioClip by loader first. Don't use audio's URL anymore.
+2018-12-27T06:20:12.554Z - normal: Simulator: D/jswrapper (129): JS: [WARN]: Since 1.10, `cc.audioEngine` accept cc.AudioClip instance directly, not a URL string. Please directly reference the AudioClip object in your script, or load cc.AudioClip by loader first. Don't use audio's URL anymore.
+2018-12-27T06:20:12.606Z - normal: Simulator: D/jswrapper (129): JS: [WARN]: Since 1.10, `cc.audioEngine` accept cc.AudioClip instance directly, not a URL string. Please directly reference the AudioClip object in your script, or load cc.AudioClip by loader first. Don't use audio's URL anymore.
+2018-12-27T06:20:12.658Z - normal: Simulator: D/jswrapper (129): JS: [WARN]: Since 1.10, `cc.audioEngine` accept cc.AudioClip instance directly, not a URL string. Please directly reference the AudioClip object in your script, or load cc.AudioClip by loader first. Don't use audio's URL anymore.
+2018-12-27T06:20:12.705Z - normal: Simulator: D/jswrapper (129): JS: [WARN]: Since 1.10, `cc.audioEngine` accept cc.AudioClip instance directly, not a URL string. Please directly reference the AudioClip object in your script, or load cc.AudioClip by loader first. Don't use audio's URL anymore.
+2018-12-27T06:20:12.755Z - normal: Simulator: D/jswrapper (129): JS: [WARN]: Since 1.10, `cc.audioEngine` accept cc.AudioClip instance directly, not a URL string. Please directly reference the AudioClip object in your script, or load cc.AudioClip by loader first. Don't use audio's URL anymore.
+2018-12-27T06:20:12.806Z - normal: Simulator: D/jswrapper (129): JS: [WARN]: Since 1.10, `cc.audioEngine` accept cc.AudioClip instance directly, not a URL string. Please directly reference the AudioClip object in your script, or load cc.AudioClip by loader first. Don't use audio's URL anymore.
+2018-12-27T06:20:12.856Z - normal: Simulator: D/jswrapper (129): JS: [WARN]: Since 1.10, `cc.audioEngine` accept cc.AudioClip instance directly, not a URL string. Please directly reference the AudioClip object in your script, or load cc.AudioClip by loader first. Don't use audio's URL anymore.
+2018-12-27T06:20:12.909Z - normal: Simulator: D/jswrapper (129): JS: [WARN]: Since 1.10, `cc.audioEngine` accept cc.AudioClip instance directly, not a URL string. Please directly reference the AudioClip object in your script, or load cc.AudioClip by loader first. Don't use audio's URL anymore.
+2018-12-27T06:20:12.959Z - normal: Simulator: D/jswrapper (129): JS: [WARN]: Since 1.10, `cc.audioEngine` accept cc.AudioClip instance directly, not a URL string. Please directly reference the AudioClip object in your script, or load cc.AudioClip by loader first. Don't use audio's URL anymore.
+2018-12-27T06:20:13.026Z - normal: Simulator: D/jswrapper (129): JS: [WARN]: Since 1.10, `cc.audioEngine` accept cc.AudioClip instance directly, not a URL string. Please directly reference the AudioClip object in your script, or load cc.AudioClip by loader first. Don't use audio's URL anymore.
+2018-12-27T06:20:13.094Z - normal: Simulator: D/jswrapper (129): JS: [WARN]: Since 1.10, `cc.audioEngine` accept cc.AudioClip instance directly, not a URL string. Please directly reference the AudioClip object in your script, or load cc.AudioClip by loader first. Don't use audio's URL anymore.
+2018-12-27T06:20:13.164Z - normal: Simulator: D/jswrapper (129): JS: [WARN]: Since 1.10, `cc.audioEngine` accept cc.AudioClip instance directly, not a URL string. Please directly reference the AudioClip object in your script, or load cc.AudioClip by loader first. Don't use audio's URL anymore.
+2018-12-27T06:20:13.227Z - normal: Simulator: D/jswrapper (129): JS: [WARN]: Since 1.10, `cc.audioEngine` accept cc.AudioClip instance directly, not a URL string. Please directly reference the AudioClip object in your script, or load cc.AudioClip by loader first. Don't use audio's URL anymore.
+2018-12-27T06:20:13.311Z - normal: Simulator: D/jswrapper (129): JS: [WARN]: Since 1.10, `cc.audioEngine` accept cc.AudioClip instance directly, not a URL string. Please directly reference the AudioClip object in your script, or load cc.AudioClip by loader first. Don't use audio's URL anymore.
+2018-12-27T06:20:13.393Z - normal: Simulator: D/jswrapper (129): JS: [WARN]: Since 1.10, `cc.audioEngine` accept cc.AudioClip instance directly, not a URL string. Please directly reference the AudioClip object in your script, or load cc.AudioClip by loader first. Don't use audio's URL anymore.
+2018-12-27T06:20:13.490Z - normal: Simulator: D/jswrapper (129): JS: [WARN]: Since 1.10, `cc.audioEngine` accept cc.AudioClip instance directly, not a URL string. Please directly reference the AudioClip object in your script, or load cc.AudioClip by loader first. Don't use audio's URL anymore.
+2018-12-27T06:20:13.587Z - normal: Simulator: D/jswrapper (129): JS: [WARN]: Since 1.10, `cc.audioEngine` accept cc.AudioClip instance directly, not a URL string. Please directly reference the AudioClip object in your script, or load cc.AudioClip by loader first. Don't use audio's URL anymore.
+2018-12-27T06:20:13.687Z - normal: Simulator: D/jswrapper (129): JS: [WARN]: Since 1.10, `cc.audioEngine` accept cc.AudioClip instance directly, not a URL string. Please directly reference the AudioClip object in your script, or load cc.AudioClip by loader first. Don't use audio's URL anymore.
+2018-12-27T06:20:13.804Z - normal: Simulator: D/jswrapper (129): JS: [WARN]: Since 1.10, `cc.audioEngine` accept cc.AudioClip instance directly, not a URL string. Please directly reference the AudioClip object in your script, or load cc.AudioClip by loader first. Don't use audio's URL anymore.
+2018-12-27T06:20:13.937Z - normal: Simulator: D/jswrapper (129): JS: [WARN]: Since 1.10, `cc.audioEngine` accept cc.AudioClip instance directly, not a URL string. Please directly reference the AudioClip object in your script, or load cc.AudioClip by loader first. Don't use audio's URL anymore.
+2018-12-27T06:20:14.087Z - normal: Simulator: D/jswrapper (129): JS: [WARN]: Since 1.10, `cc.audioEngine` accept cc.AudioClip instance directly, not a URL string. Please directly reference the AudioClip object in your script, or load cc.AudioClip by loader first. Don't use audio's URL anymore.
+2018-12-27T06:20:14.281Z - normal: Simulator: D/jswrapper (129): JS: [WARN]: Since 1.10, `cc.audioEngine` accept cc.AudioClip instance directly, not a URL string. Please directly reference the AudioClip object in your script, or load cc.AudioClip by loader first. Don't use audio's URL anymore.
+2018-12-27T06:20:14.498Z - normal: Simulator: D/jswrapper (129): JS: [WARN]: Since 1.10, `cc.audioEngine` accept cc.AudioClip instance directly, not a URL string. Please directly reference the AudioClip object in your script, or load cc.AudioClip by loader first. Don't use audio's URL anymore.
+2018-12-27T06:20:14.782Z - normal: Simulator: D/jswrapper (129): JS: [WARN]: Since 1.10, `cc.audioEngine` accept cc.AudioClip instance directly, not a URL string. Please directly reference the AudioClip object in your script, or load cc.AudioClip by loader first. Don't use audio's URL anymore.
+2018-12-27T06:20:15.184Z - normal: Simulator: D/jswrapper (129): JS: [WARN]: Since 1.10, `cc.audioEngine` accept cc.AudioClip instance directly, not a URL string. Please directly reference the AudioClip object in your script, or load cc.AudioClip by loader first. Don't use audio's URL anymore.
+2018-12-27T06:20:15.851Z - normal: Simulator: D/jswrapper (129): JS: [WARN]: Since 1.10, `cc.audioEngine` accept cc.AudioClip instance directly, not a URL string. Please directly reference the AudioClip object in your script, or load cc.AudioClip by loader first. Don't use audio's URL anymore.
+2018-12-27T06:20:16.401Z - normal: Simulator: D/jswrapper (129): JS: 2x
+2018-12-27T06:20:16.736Z - normal: Simulator: D/jswrapper (129): JS: begin spin
+2018-12-27T06:20:16.987Z - normal: Simulator: D/jswrapper (129): JS: [WARN]: Since 1.10, `cc.audioEngine` accept cc.AudioClip instance directly, not a URL string. Please directly reference the AudioClip object in your script, or load cc.AudioClip by loader first. Don't use audio's URL anymore.
+2018-12-27T06:20:17.154Z - normal: Simulator: D/jswrapper (129): JS: [WARN]: Since 1.10, `cc.audioEngine` accept cc.AudioClip instance directly, not a URL string. Please directly reference the AudioClip object in your script, or load cc.AudioClip by loader first. Don't use audio's URL anymore.
+2018-12-27T06:20:17.272Z - normal: Simulator: D/jswrapper (129): JS: [WARN]: Since 1.10, `cc.audioEngine` accept cc.AudioClip instance directly, not a URL string. Please directly reference the AudioClip object in your script, or load cc.AudioClip by loader first. Don't use audio's URL anymore.
+2018-12-27T06:20:17.372Z - normal: Simulator: D/jswrapper (129): JS: [WARN]: Since 1.10, `cc.audioEngine` accept cc.AudioClip instance directly, not a URL string. Please directly reference the AudioClip object in your script, or load cc.AudioClip by loader first. Don't use audio's URL anymore.
+2018-12-27T06:20:17.455Z - normal: Simulator: D/jswrapper (129): JS: [WARN]: Since 1.10, `cc.audioEngine` accept cc.AudioClip instance directly, not a URL string. Please directly reference the AudioClip object in your script, or load cc.AudioClip by loader first. Don't use audio's URL anymore.
+2018-12-27T06:20:17.539Z - normal: Simulator: D/jswrapper (129): JS: [WARN]: Since 1.10, `cc.audioEngine` accept cc.AudioClip instance directly, not a URL string. Please directly reference the AudioClip object in your script, or load cc.AudioClip by loader first. Don't use audio's URL anymore.
+2018-12-27T06:20:17.606Z - normal: Simulator: D/jswrapper (129): JS: [WARN]: Since 1.10, `cc.audioEngine` accept cc.AudioClip instance directly, not a URL string. Please directly reference the AudioClip object in your script, or load cc.AudioClip by loader first. Don't use audio's URL anymore.
+2018-12-27T06:20:17.673Z - normal: Simulator: D/jswrapper (129): JS: [WARN]: Since 1.10, `cc.audioEngine` accept cc.AudioClip instance directly, not a URL string. Please directly reference the AudioClip object in your script, or load cc.AudioClip by loader first. Don't use audio's URL anymore.
+2018-12-27T06:20:17.739Z - normal: Simulator: D/jswrapper (129): JS: [WARN]: Since 1.10, `cc.audioEngine` accept cc.AudioClip instance directly, not a URL string. Please directly reference the AudioClip object in your script, or load cc.AudioClip by loader first. Don't use audio's URL anymore.
+2018-12-27T06:20:17.806Z - normal: Simulator: D/jswrapper (129): JS: [WARN]: Since 1.10, `cc.audioEngine` accept cc.AudioClip instance directly, not a URL string. Please directly reference the AudioClip object in your script, or load cc.AudioClip by loader first. Don't use audio's URL anymore.
+2018-12-27T06:20:17.873Z - normal: Simulator: D/jswrapper (129): JS: [WARN]: Since 1.10, `cc.audioEngine` accept cc.AudioClip instance directly, not a URL string. Please directly reference the AudioClip object in your script, or load cc.AudioClip by loader first. Don't use audio's URL anymore.
+2018-12-27T06:20:17.922Z - normal: Simulator: D/jswrapper (129): JS: [WARN]: Since 1.10, `cc.audioEngine` accept cc.AudioClip instance directly, not a URL string. Please directly reference the AudioClip object in your script, or load cc.AudioClip by loader first. Don't use audio's URL anymore.
+2018-12-27T06:20:17.973Z - normal: Simulator: D/jswrapper (129): JS: [WARN]: Since 1.10, `cc.audioEngine` accept cc.AudioClip instance directly, not a URL string. Please directly reference the AudioClip object in your script, or load cc.AudioClip by loader first. Don't use audio's URL anymore.
+2018-12-27T06:20:18.022Z - normal: Simulator: D/jswrapper (129): JS: [WARN]: Since 1.10, `cc.audioEngine` accept cc.AudioClip instance directly, not a URL string. Please directly reference the AudioClip object in your script, or load cc.AudioClip by loader first. Don't use audio's URL anymore.
+2018-12-27T06:20:18.072Z - normal: Simulator: D/jswrapper (129): JS: [WARN]: Since 1.10, `cc.audioEngine` accept cc.AudioClip instance directly, not a URL string. Please directly reference the AudioClip object in your script, or load cc.AudioClip by loader first. Don't use audio's URL anymore.
+2018-12-27T06:20:18.123Z - normal: Simulator: D/jswrapper (129): JS: [WARN]: Since 1.10, `cc.audioEngine` accept cc.AudioClip instance directly, not a URL string. Please directly reference the AudioClip object in your script, or load cc.AudioClip by loader first. Don't use audio's URL anymore.
+2018-12-27T06:20:18.185Z - normal: Simulator: D/jswrapper (129): JS: [WARN]: Since 1.10, `cc.audioEngine` accept cc.AudioClip instance directly, not a URL string. Please directly reference the AudioClip object in your script, or load cc.AudioClip by loader first. Don't use audio's URL anymore.
+2018-12-27T06:20:18.236Z - normal: Simulator: D/jswrapper (129): JS: [WARN]: Since 1.10, `cc.audioEngine` accept cc.AudioClip instance directly, not a URL string. Please directly reference the AudioClip object in your script, or load cc.AudioClip by loader first. Don't use audio's URL anymore.
+2018-12-27T06:20:18.286Z - normal: Simulator: D/jswrapper (129): JS: [WARN]: Since 1.10, `cc.audioEngine` accept cc.AudioClip instance directly, not a URL string. Please directly reference the AudioClip object in your script, or load cc.AudioClip by loader first. Don't use audio's URL anymore.
+2018-12-27T06:20:18.336Z - normal: Simulator: D/jswrapper (129): JS: [WARN]: Since 1.10, `cc.audioEngine` accept cc.AudioClip instance directly, not a URL string. Please directly reference the AudioClip object in your script, or load cc.AudioClip by loader first. Don't use audio's URL anymore.
+2018-12-27T06:20:18.387Z - normal: Simulator: D/jswrapper (129): JS: [WARN]: Since 1.10, `cc.audioEngine` accept cc.AudioClip instance directly, not a URL string. Please directly reference the AudioClip object in your script, or load cc.AudioClip by loader first. Don't use audio's URL anymore.
+2018-12-27T06:20:18.436Z - normal: Simulator: D/jswrapper (129): JS: [WARN]: Since 1.10, `cc.audioEngine` accept cc.AudioClip instance directly, not a URL string. Please directly reference the AudioClip object in your script, or load cc.AudioClip by loader first. Don't use audio's URL anymore.
+2018-12-27T06:20:18.470Z - normal: Simulator: D/jswrapper (129): JS: [WARN]: Since 1.10, `cc.audioEngine` accept cc.AudioClip instance directly, not a URL string. Please directly reference the AudioClip object in your script, or load cc.AudioClip by loader first. Don't use audio's URL anymore.
+2018-12-27T06:20:18.503Z - normal: Simulator: D/jswrapper (129): JS: [WARN]: Since 1.10, `cc.audioEngine` accept cc.AudioClip instance directly, not a URL string. Please directly reference the AudioClip object in your script, or load cc.AudioClip by loader first. Don't use audio's URL anymore.
+2018-12-27T06:20:18.538Z - normal: Simulator: D/jswrapper (129): JS: [WARN]: Since 1.10, `cc.audioEngine` accept cc.AudioClip instance directly, not a URL string. Please directly reference the AudioClip object in your script, or load cc.AudioClip by loader first. Don't use audio's URL anymore.
+2018-12-27T06:20:18.571Z - normal: Simulator: D/jswrapper (129): JS: [WARN]: Since 1.10, `cc.audioEngine` accept cc.AudioClip instance directly, not a URL string. Please directly reference the AudioClip object in your script, or load cc.AudioClip by loader first. Don't use audio's URL anymore.
+2018-12-27T06:20:18.605Z - normal: Simulator: D/jswrapper (129): JS: [WARN]: Since 1.10, `cc.audioEngine` accept cc.AudioClip instance directly, not a URL string. Please directly reference the AudioClip object in your script, or load cc.AudioClip by loader first. Don't use audio's URL anymore.
+2018-12-27T06:20:18.638Z - normal: Simulator: D/jswrapper (129): JS: [WARN]: Since 1.10, `cc.audioEngine` accept cc.AudioClip instance directly, not a URL string. Please directly reference the AudioClip object in your script, or load cc.AudioClip by loader first. Don't use audio's URL anymore.
+2018-12-27T06:20:18.672Z - normal: Simulator: D/jswrapper (129): JS: [WARN]: Since 1.10, `cc.audioEngine` accept cc.AudioClip instance directly, not a URL string. Please directly reference the AudioClip object in your script, or load cc.AudioClip by loader first. Don't use audio's URL anymore.
+2018-12-27T06:20:18.705Z - normal: Simulator: D/jswrapper (129): JS: [WARN]: Since 1.10, `cc.audioEngine` accept cc.AudioClip instance directly, not a URL string. Please directly reference the AudioClip object in your script, or load cc.AudioClip by loader first. Don't use audio's URL anymore.
+2018-12-27T06:20:18.738Z - normal: Simulator: D/jswrapper (129): JS: [WARN]: Since 1.10, `cc.audioEngine` accept cc.AudioClip instance directly, not a URL string. Please directly reference the AudioClip object in your script, or load cc.AudioClip by loader first. Don't use audio's URL anymore.
+2018-12-27T06:20:18.771Z - normal: Simulator: D/jswrapper (129): JS: [WARN]: Since 1.10, `cc.audioEngine` accept cc.AudioClip instance directly, not a URL string. Please directly reference the AudioClip object in your script, or load cc.AudioClip by loader first. Don't use audio's URL anymore.
+2018-12-27T06:20:18.806Z - normal: Simulator: D/jswrapper (129): JS: [WARN]: Since 1.10, `cc.audioEngine` accept cc.AudioClip instance directly, not a URL string. Please directly reference the AudioClip object in your script, or load cc.AudioClip by loader first. Don't use audio's URL anymore.
+2018-12-27T06:20:18.838Z - normal: Simulator: D/jswrapper (129): JS: [WARN]: Since 1.10, `cc.audioEngine` accept cc.AudioClip instance directly, not a URL string. Please directly reference the AudioClip object in your script, or load cc.AudioClip by loader first. Don't use audio's URL anymore.
+2018-12-27T06:20:18.871Z - normal: Simulator: D/jswrapper (129): JS: [WARN]: Since 1.10, `cc.audioEngine` accept cc.AudioClip instance directly, not a URL string. Please directly reference the AudioClip object in your script, or load cc.AudioClip by loader first. Don't use audio's URL anymore.
+2018-12-27T06:20:18.905Z - normal: Simulator: D/jswrapper (129): JS: [WARN]: Since 1.10, `cc.audioEngine` accept cc.AudioClip instance directly, not a URL string. Please directly reference the AudioClip object in your script, or load cc.AudioClip by loader first. Don't use audio's URL anymore.
+2018-12-27T06:20:18.938Z - normal: Simulator: D/jswrapper (129): JS: [WARN]: Since 1.10, `cc.audioEngine` accept cc.AudioClip instance directly, not a URL string. Please directly reference the AudioClip object in your script, or load cc.AudioClip by loader first. Don't use audio's URL anymore.
+2018-12-27T06:20:18.973Z - normal: Simulator: D/jswrapper (129): JS: [WARN]: Since 1.10, `cc.audioEngine` accept cc.AudioClip instance directly, not a URL string. Please directly reference the AudioClip object in your script, or load cc.AudioClip by loader first. Don't use audio's URL anymore.
+2018-12-27T06:20:19.005Z - normal: Simulator: D/jswrapper (129): JS: [WARN]: Since 1.10, `cc.audioEngine` accept cc.AudioClip instance directly, not a URL string. Please directly reference the AudioClip object in your script, or load cc.AudioClip by loader first. Don't use audio's URL anymore.
+2018-12-27T06:20:19.039Z - normal: Simulator: D/jswrapper (129): JS: [WARN]: Since 1.10, `cc.audioEngine` accept cc.AudioClip instance directly, not a URL string. Please directly reference the AudioClip object in your script, or load cc.AudioClip by loader first. Don't use audio's URL anymore.
+2018-12-27T06:20:19.072Z - normal: Simulator: D/jswrapper (129): JS: [WARN]: Since 1.10, `cc.audioEngine` accept cc.AudioClip instance directly, not a URL string. Please directly reference the AudioClip object in your script, or load cc.AudioClip by loader first. Don't use audio's URL anymore.
+2018-12-27T06:20:19.106Z - normal: Simulator: D/jswrapper (129): JS: [WARN]: Since 1.10, `cc.audioEngine` accept cc.AudioClip instance directly, not a URL string. Please directly reference the AudioClip object in your script, or load cc.AudioClip by loader first. Don't use audio's URL anymore.
+2018-12-27T06:20:19.138Z - normal: Simulator: D/jswrapper (129): JS: [WARN]: Since 1.10, `cc.audioEngine` accept cc.AudioClip instance directly, not a URL string. Please directly reference the AudioClip object in your script, or load cc.AudioClip by loader first. Don't use audio's URL anymore.
+2018-12-27T06:20:19.174Z - normal: Simulator: D/jswrapper (129): JS: [WARN]: Since 1.10, `cc.audioEngine` accept cc.AudioClip instance directly, not a URL string. Please directly reference the AudioClip object in your script, or load cc.AudioClip by loader first. Don't use audio's URL anymore.
+2018-12-27T06:20:19.205Z - normal: Simulator: D/jswrapper (129): JS: [WARN]: Since 1.10, `cc.audioEngine` accept cc.AudioClip instance directly, not a URL string. Please directly reference the AudioClip object in your script, or load cc.AudioClip by loader first. Don't use audio's URL anymore.
+2018-12-27T06:20:19.238Z - normal: Simulator: D/jswrapper (129): JS: [WARN]: Since 1.10, `cc.audioEngine` accept cc.AudioClip instance directly, not a URL string. Please directly reference the AudioClip object in your script, or load cc.AudioClip by loader first. Don't use audio's URL anymore.
+2018-12-27T06:20:19.272Z - normal: Simulator: D/jswrapper (129): JS: [WARN]: Since 1.10, `cc.audioEngine` accept cc.AudioClip instance directly, not a URL string. Please directly reference the AudioClip object in your script, or load cc.AudioClip by loader first. Don't use audio's URL anymore.
+2018-12-27T06:20:19.305Z - normal: Simulator: D/jswrapper (129): JS: [WARN]: Since 1.10, `cc.audioEngine` accept cc.AudioClip instance directly, not a URL string. Please directly reference the AudioClip object in your script, or load cc.AudioClip by loader first. Don't use audio's URL anymore.
+2018-12-27T06:20:19.338Z - normal: Simulator: D/jswrapper (129): JS: [WARN]: Since 1.10, `cc.audioEngine` accept cc.AudioClip instance directly, not a URL string. Please directly reference the AudioClip object in your script, or load cc.AudioClip by loader first. Don't use audio's URL anymore.
+2018-12-27T06:20:19.372Z - normal: Simulator: D/jswrapper (129): JS: [WARN]: Since 1.10, `cc.audioEngine` accept cc.AudioClip instance directly, not a URL string. Please directly reference the AudioClip object in your script, or load cc.AudioClip by loader first. Don't use audio's URL anymore.
+2018-12-27T06:20:19.406Z - normal: Simulator: D/jswrapper (129): JS: [WARN]: Since 1.10, `cc.audioEngine` accept cc.AudioClip instance directly, not a URL string. Please directly reference the AudioClip object in your script, or load cc.AudioClip by loader first. Don't use audio's URL anymore.
+2018-12-27T06:20:19.438Z - normal: Simulator: D/jswrapper (129): JS: [WARN]: Since 1.10, `cc.audioEngine` accept cc.AudioClip instance directly, not a URL string. Please directly reference the AudioClip object in your script, or load cc.AudioClip by loader first. Don't use audio's URL anymore.
+2018-12-27T06:20:19.472Z - normal: Simulator: D/jswrapper (129): JS: [WARN]: Since 1.10, `cc.audioEngine` accept cc.AudioClip instance directly, not a URL string. Please directly reference the AudioClip object in your script, or load cc.AudioClip by loader first. Don't use audio's URL anymore.
+2018-12-27T06:20:19.505Z - normal: Simulator: D/jswrapper (129): JS: [WARN]: Since 1.10, `cc.audioEngine` accept cc.AudioClip instance directly, not a URL string. Please directly reference the AudioClip object in your script, or load cc.AudioClip by loader first. Don't use audio's URL anymore.
+2018-12-27T06:20:19.538Z - normal: Simulator: D/jswrapper (129): JS: [WARN]: Since 1.10, `cc.audioEngine` accept cc.AudioClip instance directly, not a URL string. Please directly reference the AudioClip object in your script, or load cc.AudioClip by loader first. Don't use audio's URL anymore.
+2018-12-27T06:20:19.571Z - normal: Simulator: D/jswrapper (129): JS: [WARN]: Since 1.10, `cc.audioEngine` accept cc.AudioClip instance directly, not a URL string. Please directly reference the AudioClip object in your script, or load cc.AudioClip by loader first. Don't use audio's URL anymore.
+2018-12-27T06:20:19.606Z - normal: Simulator: D/jswrapper (129): JS: [WARN]: Since 1.10, `cc.audioEngine` accept cc.AudioClip instance directly, not a URL string. Please directly reference the AudioClip object in your script, or load cc.AudioClip by loader first. Don't use audio's URL anymore.
+2018-12-27T06:20:19.639Z - normal: Simulator: D/jswrapper (129): JS: [WARN]: Since 1.10, `cc.audioEngine` accept cc.AudioClip instance directly, not a URL string. Please directly reference the AudioClip object in your script, or load cc.AudioClip by loader first. Don't use audio's URL anymore.
+2018-12-27T06:20:19.674Z - normal: Simulator: D/jswrapper (129): JS: [WARN]: Since 1.10, `cc.audioEngine` accept cc.AudioClip instance directly, not a URL string. Please directly reference the AudioClip object in your script, or load cc.AudioClip by loader first. Don't use audio's URL anymore.
+2018-12-27T06:20:19.706Z - normal: Simulator: D/jswrapper (129): JS: [WARN]: Since 1.10, `cc.audioEngine` accept cc.AudioClip instance directly, not a URL string. Please directly reference the AudioClip object in your script, or load cc.AudioClip by loader first. Don't use audio's URL anymore.
+2018-12-27T06:20:19.738Z - normal: Simulator: D/jswrapper (129): JS: [WARN]: Since 1.10, `cc.audioEngine` accept cc.AudioClip instance directly, not a URL string. Please directly reference the AudioClip object in your script, or load cc.AudioClip by loader first. Don't use audio's URL anymore.
+2018-12-27T06:20:19.772Z - normal: Simulator: D/jswrapper (129): JS: [WARN]: Since 1.10, `cc.audioEngine` accept cc.AudioClip instance directly, not a URL string. Please directly reference the AudioClip object in your script, or load cc.AudioClip by loader first. Don't use audio's URL anymore.
+2018-12-27T06:20:19.805Z - normal: Simulator: D/jswrapper (129): JS: [WARN]: Since 1.10, `cc.audioEngine` accept cc.AudioClip instance directly, not a URL string. Please directly reference the AudioClip object in your script, or load cc.AudioClip by loader first. Don't use audio's URL anymore.
+2018-12-27T06:20:19.838Z - normal: Simulator: D/jswrapper (129): JS: [WARN]: Since 1.10, `cc.audioEngine` accept cc.AudioClip instance directly, not a URL string. Please directly reference the AudioClip object in your script, or load cc.AudioClip by loader first. Don't use audio's URL anymore.
+2018-12-27T06:20:19.872Z - normal: Simulator: D/jswrapper (129): JS: [WARN]: Since 1.10, `cc.audioEngine` accept cc.AudioClip instance directly, not a URL string. Please directly reference the AudioClip object in your script, or load cc.AudioClip by loader first. Don't use audio's URL anymore.
+2018-12-27T06:20:19.906Z - normal: Simulator: D/jswrapper (129): JS: [WARN]: Since 1.10, `cc.audioEngine` accept cc.AudioClip instance directly, not a URL string. Please directly reference the AudioClip object in your script, or load cc.AudioClip by loader first. Don't use audio's URL anymore.
+2018-12-27T06:20:19.940Z - normal: Simulator: D/jswrapper (129): JS: [WARN]: Since 1.10, `cc.audioEngine` accept cc.AudioClip instance directly, not a URL string. Please directly reference the AudioClip object in your script, or load cc.AudioClip by loader first. Don't use audio's URL anymore.
+2018-12-27T06:20:19.972Z - normal: Simulator: D/jswrapper (129): JS: [WARN]: Since 1.10, `cc.audioEngine` accept cc.AudioClip instance directly, not a URL string. Please directly reference the AudioClip object in your script, or load cc.AudioClip by loader first. Don't use audio's URL anymore.
+2018-12-27T06:20:20.022Z - normal: Simulator: D/jswrapper (129): JS: [WARN]: Since 1.10, `cc.audioEngine` accept cc.AudioClip instance directly, not a URL string. Please directly reference the AudioClip object in your script, or load cc.AudioClip by loader first. Don't use audio's URL anymore.
+2018-12-27T06:20:20.072Z - normal: Simulator: D/jswrapper (129): JS: [WARN]: Since 1.10, `cc.audioEngine` accept cc.AudioClip instance directly, not a URL string. Please directly reference the AudioClip object in your script, or load cc.AudioClip by loader first. Don't use audio's URL anymore.
+2018-12-27T06:20:20.122Z - normal: Simulator: D/jswrapper (129): JS: [WARN]: Since 1.10, `cc.audioEngine` accept cc.AudioClip instance directly, not a URL string. Please directly reference the AudioClip object in your script, or load cc.AudioClip by loader first. Don't use audio's URL anymore.
+2018-12-27T06:20:20.173Z - normal: Simulator: D/jswrapper (129): JS: [WARN]: Since 1.10, `cc.audioEngine` accept cc.AudioClip instance directly, not a URL string. Please directly reference the AudioClip object in your script, or load cc.AudioClip by loader first. Don't use audio's URL anymore.
+2018-12-27T06:20:20.222Z - normal: Simulator: D/jswrapper (129): JS: [WARN]: Since 1.10, `cc.audioEngine` accept cc.AudioClip instance directly, not a URL string. Please directly reference the AudioClip object in your script, or load cc.AudioClip by loader first. Don't use audio's URL anymore.
+2018-12-27T06:20:20.272Z - normal: Simulator: D/jswrapper (129): JS: [WARN]: Since 1.10, `cc.audioEngine` accept cc.AudioClip instance directly, not a URL string. Please directly reference the AudioClip object in your script, or load cc.AudioClip by loader first. Don't use audio's URL anymore.
+2018-12-27T06:20:20.323Z - normal: Simulator: D/jswrapper (129): JS: [WARN]: Since 1.10, `cc.audioEngine` accept cc.AudioClip instance directly, not a URL string. Please directly reference the AudioClip object in your script, or load cc.AudioClip by loader first. Don't use audio's URL anymore.
+2018-12-27T06:20:20.373Z - normal: Simulator: D/jswrapper (129): JS: [WARN]: Since 1.10, `cc.audioEngine` accept cc.AudioClip instance directly, not a URL string. Please directly reference the AudioClip object in your script, or load cc.AudioClip by loader first. Don't use audio's URL anymore.
+2018-12-27T06:20:20.439Z - normal: Simulator: D/jswrapper (129): JS: [WARN]: Since 1.10, `cc.audioEngine` accept cc.AudioClip instance directly, not a URL string. Please directly reference the AudioClip object in your script, or load cc.AudioClip by loader first. Don't use audio's URL anymore.
+2018-12-27T06:20:20.506Z - normal: Simulator: D/jswrapper (129): JS: [WARN]: Since 1.10, `cc.audioEngine` accept cc.AudioClip instance directly, not a URL string. Please directly reference the AudioClip object in your script, or load cc.AudioClip by loader first. Don't use audio's URL anymore.
+2018-12-27T06:20:20.573Z - normal: Simulator: D/jswrapper (129): JS: [WARN]: Since 1.10, `cc.audioEngine` accept cc.AudioClip instance directly, not a URL string. Please directly reference the AudioClip object in your script, or load cc.AudioClip by loader first. Don't use audio's URL anymore.
+2018-12-27T06:20:20.641Z - normal: Simulator: D/jswrapper (129): JS: [WARN]: Since 1.10, `cc.audioEngine` accept cc.AudioClip instance directly, not a URL string. Please directly reference the AudioClip object in your script, or load cc.AudioClip by loader first. Don't use audio's URL anymore.
+2018-12-27T06:20:20.723Z - normal: Simulator: D/jswrapper (129): JS: [WARN]: Since 1.10, `cc.audioEngine` accept cc.AudioClip instance directly, not a URL string. Please directly reference the AudioClip object in your script, or load cc.AudioClip by loader first. Don't use audio's URL anymore.
+2018-12-27T06:20:20.807Z - normal: Simulator: D/jswrapper (129): JS: [WARN]: Since 1.10, `cc.audioEngine` accept cc.AudioClip instance directly, not a URL string. Please directly reference the AudioClip object in your script, or load cc.AudioClip by loader first. Don't use audio's URL anymore.
+2018-12-27T06:20:20.890Z - normal: Simulator: D/jswrapper (129): JS: [WARN]: Since 1.10, `cc.audioEngine` accept cc.AudioClip instance directly, not a URL string. Please directly reference the AudioClip object in your script, or load cc.AudioClip by loader first. Don't use audio's URL anymore.
+2018-12-27T06:20:20.990Z - normal: Simulator: D/jswrapper (129): JS: [WARN]: Since 1.10, `cc.audioEngine` accept cc.AudioClip instance directly, not a URL string. Please directly reference the AudioClip object in your script, or load cc.AudioClip by loader first. Don't use audio's URL anymore.
+2018-12-27T06:20:21.107Z - normal: Simulator: D/jswrapper (129): JS: [WARN]: Since 1.10, `cc.audioEngine` accept cc.AudioClip instance directly, not a URL string. Please directly reference the AudioClip object in your script, or load cc.AudioClip by loader first. Don't use audio's URL anymore.
+2018-12-27T06:20:21.224Z - normal: Simulator: D/jswrapper (129): JS: [WARN]: Since 1.10, `cc.audioEngine` accept cc.AudioClip instance directly, not a URL string. Please directly reference the AudioClip object in your script, or load cc.AudioClip by loader first. Don't use audio's URL anymore.
+2018-12-27T06:20:21.358Z - normal: Simulator: D/jswrapper (129): JS: [WARN]: Since 1.10, `cc.audioEngine` accept cc.AudioClip instance directly, not a URL string. Please directly reference the AudioClip object in your script, or load cc.AudioClip by loader first. Don't use audio's URL anymore.
+2018-12-27T06:20:21.524Z - normal: Simulator: D/jswrapper (129): JS: [WARN]: Since 1.10, `cc.audioEngine` accept cc.AudioClip instance directly, not a URL string. Please directly reference the AudioClip object in your script, or load cc.AudioClip by loader first. Don't use audio's URL anymore.
+2018-12-27T06:20:21.724Z - normal: Simulator: D/jswrapper (129): JS: [WARN]: Since 1.10, `cc.audioEngine` accept cc.AudioClip instance directly, not a URL string. Please directly reference the AudioClip object in your script, or load cc.AudioClip by loader first. Don't use audio's URL anymore.
+2018-12-27T06:20:21.958Z - normal: Simulator: D/jswrapper (129): JS: [WARN]: Since 1.10, `cc.audioEngine` accept cc.AudioClip instance directly, not a URL string. Please directly reference the AudioClip object in your script, or load cc.AudioClip by loader first. Don't use audio's URL anymore.
+2018-12-27T06:20:22.281Z - normal: Simulator: D/jswrapper (129): JS: [WARN]: Since 1.10, `cc.audioEngine` accept cc.AudioClip instance directly, not a URL string. Please directly reference the AudioClip object in your script, or load cc.AudioClip by loader first. Don't use audio's URL anymore.
+2018-12-27T06:20:22.748Z - normal: Simulator: D/jswrapper (129): JS: [WARN]: Since 1.10, `cc.audioEngine` accept cc.AudioClip instance directly, not a URL string. Please directly reference the AudioClip object in your script, or load cc.AudioClip by loader first. Don't use audio's URL anymore.
+2018-12-27T06:20:23.668Z - normal: Simulator: D/jswrapper (129): JS: [WARN]: Since 1.10, `cc.audioEngine` accept cc.AudioClip instance directly, not a URL string. Please directly reference the AudioClip object in your script, or load cc.AudioClip by loader first. Don't use audio's URL anymore.
+2018-12-27T06:20:23.755Z - normal: Simulator: D/jswrapper (129): JS: 2x
+2018-12-27T06:20:25.134Z - normal: Simulator: D/jswrapper (129): JS: begin spin
+2018-12-27T06:20:25.453Z - normal: Simulator: D/jswrapper (129): JS: [WARN]: Since 1.10, `cc.audioEngine` accept cc.AudioClip instance directly, not a URL string. Please directly reference the AudioClip object in your script, or load cc.AudioClip by loader first. Don't use audio's URL anymore.
+2018-12-27T06:20:25.606Z - normal: Simulator: D/jswrapper (129): JS: [WARN]: Since 1.10, `cc.audioEngine` accept cc.AudioClip instance directly, not a URL string. Please directly reference the AudioClip object in your script, or load cc.AudioClip by loader first. Don't use audio's URL anymore.
+2018-12-27T06:20:25.722Z - normal: Simulator: D/jswrapper (129): JS: [WARN]: Since 1.10, `cc.audioEngine` accept cc.AudioClip instance directly, not a URL string. Please directly reference the AudioClip object in your script, or load cc.AudioClip by loader first. Don't use audio's URL anymore.
+2018-12-27T06:20:25.822Z - normal: Simulator: D/jswrapper (129): JS: [WARN]: Since 1.10, `cc.audioEngine` accept cc.AudioClip instance directly, not a URL string. Please directly reference the AudioClip object in your script, or load cc.AudioClip by loader first. Don't use audio's URL anymore.
+2018-12-27T06:20:25.905Z - normal: Simulator: D/jswrapper (129): JS: [WARN]: Since 1.10, `cc.audioEngine` accept cc.AudioClip instance directly, not a URL string. Please directly reference the AudioClip object in your script, or load cc.AudioClip by loader first. Don't use audio's URL anymore.
+2018-12-27T06:20:25.990Z - normal: Simulator: D/jswrapper (129): JS: [WARN]: Since 1.10, `cc.audioEngine` accept cc.AudioClip instance directly, not a URL string. Please directly reference the AudioClip object in your script, or load cc.AudioClip by loader first. Don't use audio's URL anymore.
+2018-12-27T06:20:26.072Z - normal: Simulator: D/jswrapper (129): JS: [WARN]: Since 1.10, `cc.audioEngine` accept cc.AudioClip instance directly, not a URL string. Please directly reference the AudioClip object in your script, or load cc.AudioClip by loader first. Don't use audio's URL anymore.
+2018-12-27T06:20:26.138Z - normal: Simulator: D/jswrapper (129): JS: [WARN]: Since 1.10, `cc.audioEngine` accept cc.AudioClip instance directly, not a URL string. Please directly reference the AudioClip object in your script, or load cc.AudioClip by loader first. Don't use audio's URL anymore.
+2018-12-27T06:20:26.206Z - normal: Simulator: D/jswrapper (129): JS: [WARN]: Since 1.10, `cc.audioEngine` accept cc.AudioClip instance directly, not a URL string. Please directly reference the AudioClip object in your script, or load cc.AudioClip by loader first. Don't use audio's URL anymore.
+2018-12-27T06:20:26.273Z - normal: Simulator: D/jswrapper (129): JS: [WARN]: Since 1.10, `cc.audioEngine` accept cc.AudioClip instance directly, not a URL string. Please directly reference the AudioClip object in your script, or load cc.AudioClip by loader first. Don't use audio's URL anymore.
+2018-12-27T06:20:26.323Z - normal: Simulator: D/jswrapper (129): JS: [WARN]: Since 1.10, `cc.audioEngine` accept cc.AudioClip instance directly, not a URL string. Please directly reference the AudioClip object in your script, or load cc.AudioClip by loader first. Don't use audio's URL anymore.
+2018-12-27T06:20:26.373Z - normal: Simulator: D/jswrapper (129): JS: [WARN]: Since 1.10, `cc.audioEngine` accept cc.AudioClip instance directly, not a URL string. Please directly reference the AudioClip object in your script, or load cc.AudioClip by loader first. Don't use audio's URL anymore.
+2018-12-27T06:20:26.424Z - normal: Simulator: D/jswrapper (129): JS: [WARN]: Since 1.10, `cc.audioEngine` accept cc.AudioClip instance directly, not a URL string. Please directly reference the AudioClip object in your script, or load cc.AudioClip by loader first. Don't use audio's URL anymore.
+2018-12-27T06:20:26.473Z - normal: Simulator: D/jswrapper (129): JS: [WARN]: Since 1.10, `cc.audioEngine` accept cc.AudioClip instance directly, not a URL string. Please directly reference the AudioClip object in your script, or load cc.AudioClip by loader first. Don't use audio's URL anymore.
+2018-12-27T06:20:26.523Z - normal: Simulator: D/jswrapper (129): JS: [WARN]: Since 1.10, `cc.audioEngine` accept cc.AudioClip instance directly, not a URL string. Please directly reference the AudioClip object in your script, or load cc.AudioClip by loader first. Don't use audio's URL anymore.
+2018-12-27T06:20:26.573Z - normal: Simulator: D/jswrapper (129): JS: [WARN]: Since 1.10, `cc.audioEngine` accept cc.AudioClip instance directly, not a URL string. Please directly reference the AudioClip object in your script, or load cc.AudioClip by loader first. Don't use audio's URL anymore.
+2018-12-27T06:20:26.624Z - normal: Simulator: D/jswrapper (129): JS: [WARN]: Since 1.10, `cc.audioEngine` accept cc.AudioClip instance directly, not a URL string. Please directly reference the AudioClip object in your script, or load cc.AudioClip by loader first. Don't use audio's URL anymore.
+2018-12-27T06:20:26.678Z - normal: Simulator: D/jswrapper (129): JS: [WARN]: Since 1.10, `cc.audioEngine` accept cc.AudioClip instance directly, not a URL string. Please directly reference the AudioClip object in your script, or load cc.AudioClip by loader first. Don't use audio's URL anymore.
+2018-12-27T06:20:26.737Z - normal: Simulator: D/jswrapper (129): JS: [WARN]: Since 1.10, `cc.audioEngine` accept cc.AudioClip instance directly, not a URL string. Please directly reference the AudioClip object in your script, or load cc.AudioClip by loader first. Don't use audio's URL anymore.
+2018-12-27T06:20:26.775Z - normal: Simulator: D/jswrapper (129): JS: [WARN]: Since 1.10, `cc.audioEngine` accept cc.AudioClip instance directly, not a URL string. Please directly reference the AudioClip object in your script, or load cc.AudioClip by loader first. Don't use audio's URL anymore.
+2018-12-27T06:20:26.825Z - normal: Simulator: D/jswrapper (129): JS: [WARN]: Since 1.10, `cc.audioEngine` accept cc.AudioClip instance directly, not a URL string. Please directly reference the AudioClip object in your script, or load cc.AudioClip by loader first. Don't use audio's URL anymore.
+2018-12-27T06:20:26.858Z - normal: Simulator: D/jswrapper (129): JS: [WARN]: Since 1.10, `cc.audioEngine` accept cc.AudioClip instance directly, not a URL string. Please directly reference the AudioClip object in your script, or load cc.AudioClip by loader first. Don't use audio's URL anymore.
+2018-12-27T06:20:26.893Z - normal: Simulator: D/jswrapper (129): JS: [WARN]: Since 1.10, `cc.audioEngine` accept cc.AudioClip instance directly, not a URL string. Please directly reference the AudioClip object in your script, or load cc.AudioClip by loader first. Don't use audio's URL anymore.
+2018-12-27T06:20:26.925Z - normal: Simulator: D/jswrapper (129): JS: [WARN]: Since 1.10, `cc.audioEngine` accept cc.AudioClip instance directly, not a URL string. Please directly reference the AudioClip object in your script, or load cc.AudioClip by loader first. Don't use audio's URL anymore.
+2018-12-27T06:20:26.958Z - normal: Simulator: D/jswrapper (129): JS: [WARN]: Since 1.10, `cc.audioEngine` accept cc.AudioClip instance directly, not a URL string. Please directly reference the AudioClip object in your script, or load cc.AudioClip by loader first. Don't use audio's URL anymore.
+2018-12-27T06:20:26.991Z - normal: Simulator: D/jswrapper (129): JS: [WARN]: Since 1.10, `cc.audioEngine` accept cc.AudioClip instance directly, not a URL string. Please directly reference the AudioClip object in your script, or load cc.AudioClip by loader first. Don't use audio's URL anymore.
+2018-12-27T06:20:27.025Z - normal: Simulator: D/jswrapper (129): JS: [WARN]: Since 1.10, `cc.audioEngine` accept cc.AudioClip instance directly, not a URL string. Please directly reference the AudioClip object in your script, or load cc.AudioClip by loader first. Don't use audio's URL anymore.
+2018-12-27T06:20:27.061Z - normal: Simulator: D/jswrapper (129): JS: [WARN]: Since 1.10, `cc.audioEngine` accept cc.AudioClip instance directly, not a URL string. Please directly reference the AudioClip object in your script, or load cc.AudioClip by loader first. Don't use audio's URL anymore.
+2018-12-27T06:20:27.091Z - normal: Simulator: D/jswrapper (129): JS: [WARN]: Since 1.10, `cc.audioEngine` accept cc.AudioClip instance directly, not a URL string. Please directly reference the AudioClip object in your script, or load cc.AudioClip by loader first. Don't use audio's URL anymore.
+2018-12-27T06:20:27.126Z - normal: Simulator: D/jswrapper (129): JS: [WARN]: Since 1.10, `cc.audioEngine` accept cc.AudioClip instance directly, not a URL string. Please directly reference the AudioClip object in your script, or load cc.AudioClip by loader first. Don't use audio's URL anymore.
+2018-12-27T06:20:27.158Z - normal: Simulator: D/jswrapper (129): JS: [WARN]: Since 1.10, `cc.audioEngine` accept cc.AudioClip instance directly, not a URL string. Please directly reference the AudioClip object in your script, or load cc.AudioClip by loader first. Don't use audio's URL anymore.
+2018-12-27T06:20:27.193Z - normal: Simulator: D/jswrapper (129): JS: [WARN]: Since 1.10, `cc.audioEngine` accept cc.AudioClip instance directly, not a URL string. Please directly reference the AudioClip object in your script, or load cc.AudioClip by loader first. Don't use audio's URL anymore.
+2018-12-27T06:20:27.226Z - normal: Simulator: D/jswrapper (129): JS: [WARN]: Since 1.10, `cc.audioEngine` accept cc.AudioClip instance directly, not a URL string. Please directly reference the AudioClip object in your script, or load cc.AudioClip by loader first. Don't use audio's URL anymore.
+2018-12-27T06:20:27.260Z - normal: Simulator: D/jswrapper (129): JS: [WARN]: Since 1.10, `cc.audioEngine` accept cc.AudioClip instance directly, not a URL string. Please directly reference the AudioClip object in your script, or load cc.AudioClip by loader first. Don't use audio's URL anymore.
+2018-12-27T06:20:27.294Z - normal: Simulator: D/jswrapper (129): JS: [WARN]: Since 1.10, `cc.audioEngine` accept cc.AudioClip instance directly, not a URL string. Please directly reference the AudioClip object in your script, or load cc.AudioClip by loader first. Don't use audio's URL anymore.
+2018-12-27T06:20:27.330Z - normal: Simulator: D/jswrapper (129): JS: [WARN]: Since 1.10, `cc.audioEngine` accept cc.AudioClip instance directly, not a URL string. Please directly reference the AudioClip object in your script, or load cc.AudioClip by loader first. Don't use audio's URL anymore.
+2018-12-27T06:20:27.364Z - normal: Simulator: D/jswrapper (129): JS: [WARN]: Since 1.10, `cc.audioEngine` accept cc.AudioClip instance directly, not a URL string. Please directly reference the AudioClip object in your script, or load cc.AudioClip by loader first. Don't use audio's URL anymore.
+2018-12-27T06:20:27.397Z - normal: Simulator: D/jswrapper (129): JS: [WARN]: Since 1.10, `cc.audioEngine` accept cc.AudioClip instance directly, not a URL string. Please directly reference the AudioClip object in your script, or load cc.AudioClip by loader first. Don't use audio's URL anymore.
+2018-12-27T06:20:27.431Z - normal: Simulator: D/jswrapper (129): JS: [WARN]: Since 1.10, `cc.audioEngine` accept cc.AudioClip instance directly, not a URL string. Please directly reference the AudioClip object in your script, or load cc.AudioClip by loader first. Don't use audio's URL anymore.
+2018-12-27T06:20:27.464Z - normal: Simulator: D/jswrapper (129): JS: [WARN]: Since 1.10, `cc.audioEngine` accept cc.AudioClip instance directly, not a URL string. Please directly reference the AudioClip object in your script, or load cc.AudioClip by loader first. Don't use audio's URL anymore.
+2018-12-27T06:20:27.498Z - normal: Simulator: D/jswrapper (129): JS: [WARN]: Since 1.10, `cc.audioEngine` accept cc.AudioClip instance directly, not a URL string. Please directly reference the AudioClip object in your script, or load cc.AudioClip by loader first. Don't use audio's URL anymore.
+2018-12-27T06:20:27.539Z - normal: Simulator: D/jswrapper (129): JS: [WARN]: Since 1.10, `cc.audioEngine` accept cc.AudioClip instance directly, not a URL string. Please directly reference the AudioClip object in your script, or load cc.AudioClip by loader first. Don't use audio's URL anymore.
+2018-12-27T06:20:27.570Z - normal: Simulator: D/jswrapper (129): JS: [WARN]: Since 1.10, `cc.audioEngine` accept cc.AudioClip instance directly, not a URL string. Please directly reference the AudioClip object in your script, or load cc.AudioClip by loader first. Don't use audio's URL anymore.
+2018-12-27T06:20:27.604Z - normal: Simulator: D/jswrapper (129): JS: [WARN]: Since 1.10, `cc.audioEngine` accept cc.AudioClip instance directly, not a URL string. Please directly reference the AudioClip object in your script, or load cc.AudioClip by loader first. Don't use audio's URL anymore.
+2018-12-27T06:20:27.638Z - normal: Simulator: D/jswrapper (129): JS: [WARN]: Since 1.10, `cc.audioEngine` accept cc.AudioClip instance directly, not a URL string. Please directly reference the AudioClip object in your script, or load cc.AudioClip by loader first. Don't use audio's URL anymore.
+2018-12-27T06:20:27.673Z - normal: Simulator: D/jswrapper (129): JS: [WARN]: Since 1.10, `cc.audioEngine` accept cc.AudioClip instance directly, not a URL string. Please directly reference the AudioClip object in your script, or load cc.AudioClip by loader first. Don't use audio's URL anymore.
+2018-12-27T06:20:27.708Z - normal: Simulator: D/jswrapper (129): JS: [WARN]: Since 1.10, `cc.audioEngine` accept cc.AudioClip instance directly, not a URL string. Please directly reference the AudioClip object in your script, or load cc.AudioClip by loader first. Don't use audio's URL anymore.
+2018-12-27T06:20:27.737Z - normal: Simulator: D/jswrapper (129): JS: [WARN]: Since 1.10, `cc.audioEngine` accept cc.AudioClip instance directly, not a URL string. Please directly reference the AudioClip object in your script, or load cc.AudioClip by loader first. Don't use audio's URL anymore.
+2018-12-27T06:20:27.771Z - normal: Simulator: D/jswrapper (129): JS: [WARN]: Since 1.10, `cc.audioEngine` accept cc.AudioClip instance directly, not a URL string. Please directly reference the AudioClip object in your script, or load cc.AudioClip by loader first. Don't use audio's URL anymore.
+2018-12-27T06:20:27.804Z - normal: Simulator: D/jswrapper (129): JS: [WARN]: Since 1.10, `cc.audioEngine` accept cc.AudioClip instance directly, not a URL string. Please directly reference the AudioClip object in your script, or load cc.AudioClip by loader first. Don't use audio's URL anymore.
+2018-12-27T06:20:27.838Z - normal: Simulator: D/jswrapper (129): JS: [WARN]: Since 1.10, `cc.audioEngine` accept cc.AudioClip instance directly, not a URL string. Please directly reference the AudioClip object in your script, or load cc.AudioClip by loader first. Don't use audio's URL anymore.
+2018-12-27T06:20:27.871Z - normal: Simulator: D/jswrapper (129): JS: [WARN]: Since 1.10, `cc.audioEngine` accept cc.AudioClip instance directly, not a URL string. Please directly reference the AudioClip object in your script, or load cc.AudioClip by loader first. Don't use audio's URL anymore.
+2018-12-27T06:20:27.904Z - normal: Simulator: D/jswrapper (129): JS: [WARN]: Since 1.10, `cc.audioEngine` accept cc.AudioClip instance directly, not a URL string. Please directly reference the AudioClip object in your script, or load cc.AudioClip by loader first. Don't use audio's URL anymore.
+2018-12-27T06:20:27.938Z - normal: Simulator: D/jswrapper (129): JS: [WARN]: Since 1.10, `cc.audioEngine` accept cc.AudioClip instance directly, not a URL string. Please directly reference the AudioClip object in your script, or load cc.AudioClip by loader first. Don't use audio's URL anymore.
+2018-12-27T06:20:27.971Z - normal: Simulator: D/jswrapper (129): JS: [WARN]: Since 1.10, `cc.audioEngine` accept cc.AudioClip instance directly, not a URL string. Please directly reference the AudioClip object in your script, or load cc.AudioClip by loader first. Don't use audio's URL anymore.
+2018-12-27T06:20:28.006Z - normal: Simulator: D/jswrapper (129): JS: [WARN]: Since 1.10, `cc.audioEngine` accept cc.AudioClip instance directly, not a URL string. Please directly reference the AudioClip object in your script, or load cc.AudioClip by loader first. Don't use audio's URL anymore.
+2018-12-27T06:20:28.040Z - normal: Simulator: D/jswrapper (129): JS: [WARN]: Since 1.10, `cc.audioEngine` accept cc.AudioClip instance directly, not a URL string. Please directly reference the AudioClip object in your script, or load cc.AudioClip by loader first. Don't use audio's URL anymore.
+2018-12-27T06:20:28.072Z - normal: Simulator: D/jswrapper (129): JS: [WARN]: Since 1.10, `cc.audioEngine` accept cc.AudioClip instance directly, not a URL string. Please directly reference the AudioClip object in your script, or load cc.AudioClip by loader first. Don't use audio's URL anymore.
+2018-12-27T06:20:28.106Z - normal: Simulator: D/jswrapper (129): JS: [WARN]: Since 1.10, `cc.audioEngine` accept cc.AudioClip instance directly, not a URL string. Please directly reference the AudioClip object in your script, or load cc.AudioClip by loader first. Don't use audio's URL anymore.
+2018-12-27T06:20:28.140Z - normal: Simulator: D/jswrapper (129): JS: [WARN]: Since 1.10, `cc.audioEngine` accept cc.AudioClip instance directly, not a URL string. Please directly reference the AudioClip object in your script, or load cc.AudioClip by loader first. Don't use audio's URL anymore.
+2018-12-27T06:20:28.178Z - normal: Simulator: D/jswrapper (129): JS: [WARN]: Since 1.10, `cc.audioEngine` accept cc.AudioClip instance directly, not a URL string. Please directly reference the AudioClip object in your script, or load cc.AudioClip by loader first. Don't use audio's URL anymore.
+2018-12-27T06:20:28.206Z - normal: Simulator: D/jswrapper (129): JS: [WARN]: Since 1.10, `cc.audioEngine` accept cc.AudioClip instance directly, not a URL string. Please directly reference the AudioClip object in your script, or load cc.AudioClip by loader first. Don't use audio's URL anymore.
+2018-12-27T06:20:28.239Z - normal: Simulator: D/jswrapper (129): JS: [WARN]: Since 1.10, `cc.audioEngine` accept cc.AudioClip instance directly, not a URL string. Please directly reference the AudioClip object in your script, or load cc.AudioClip by loader first. Don't use audio's URL anymore.
+2018-12-27T06:20:28.273Z - normal: Simulator: D/jswrapper (129): JS: [WARN]: Since 1.10, `cc.audioEngine` accept cc.AudioClip instance directly, not a URL string. Please directly reference the AudioClip object in your script, or load cc.AudioClip by loader first. Don't use audio's URL anymore.
+2018-12-27T06:20:28.306Z - normal: Simulator: D/jswrapper (129): JS: [WARN]: Since 1.10, `cc.audioEngine` accept cc.AudioClip instance directly, not a URL string. Please directly reference the AudioClip object in your script, or load cc.AudioClip by loader first. Don't use audio's URL anymore.
+2018-12-27T06:20:28.340Z - normal: Simulator: D/jswrapper (129): JS: [WARN]: Since 1.10, `cc.audioEngine` accept cc.AudioClip instance directly, not a URL string. Please directly reference the AudioClip object in your script, or load cc.AudioClip by loader first. Don't use audio's URL anymore.
+2018-12-27T06:20:28.374Z - normal: Simulator: D/jswrapper (129): JS: [WARN]: Since 1.10, `cc.audioEngine` accept cc.AudioClip instance directly, not a URL string. Please directly reference the AudioClip object in your script, or load cc.AudioClip by loader first. Don't use audio's URL anymore.
+2018-12-27T06:20:28.423Z - normal: Simulator: D/jswrapper (129): JS: [WARN]: Since 1.10, `cc.audioEngine` accept cc.AudioClip instance directly, not a URL string. Please directly reference the AudioClip object in your script, or load cc.AudioClip by loader first. Don't use audio's URL anymore.
+2018-12-27T06:20:28.475Z - normal: Simulator: D/jswrapper (129): JS: [WARN]: Since 1.10, `cc.audioEngine` accept cc.AudioClip instance directly, not a URL string. Please directly reference the AudioClip object in your script, or load cc.AudioClip by loader first. Don't use audio's URL anymore.
+2018-12-27T06:20:28.523Z - normal: Simulator: D/jswrapper (129): JS: [WARN]: Since 1.10, `cc.audioEngine` accept cc.AudioClip instance directly, not a URL string. Please directly reference the AudioClip object in your script, or load cc.AudioClip by loader first. Don't use audio's URL anymore.
+2018-12-27T06:20:28.574Z - normal: Simulator: D/jswrapper (129): JS: [WARN]: Since 1.10, `cc.audioEngine` accept cc.AudioClip instance directly, not a URL string. Please directly reference the AudioClip object in your script, or load cc.AudioClip by loader first. Don't use audio's URL anymore.
+2018-12-27T06:20:28.625Z - normal: Simulator: D/jswrapper (129): JS: [WARN]: Since 1.10, `cc.audioEngine` accept cc.AudioClip instance directly, not a URL string. Please directly reference the AudioClip object in your script, or load cc.AudioClip by loader first. Don't use audio's URL anymore.
+2018-12-27T06:20:28.675Z - normal: Simulator: D/jswrapper (129): JS: [WARN]: Since 1.10, `cc.audioEngine` accept cc.AudioClip instance directly, not a URL string. Please directly reference the AudioClip object in your script, or load cc.AudioClip by loader first. Don't use audio's URL anymore.
+2018-12-27T06:20:28.724Z - normal: Simulator: D/jswrapper (129): JS: [WARN]: Since 1.10, `cc.audioEngine` accept cc.AudioClip instance directly, not a URL string. Please directly reference the AudioClip object in your script, or load cc.AudioClip by loader first. Don't use audio's URL anymore.
+2018-12-27T06:20:28.773Z - normal: Simulator: D/jswrapper (129): JS: [WARN]: Since 1.10, `cc.audioEngine` accept cc.AudioClip instance directly, not a URL string. Please directly reference the AudioClip object in your script, or load cc.AudioClip by loader first. Don't use audio's URL anymore.
+2018-12-27T06:20:28.840Z - normal: Simulator: D/jswrapper (129): JS: [WARN]: Since 1.10, `cc.audioEngine` accept cc.AudioClip instance directly, not a URL string. Please directly reference the AudioClip object in your script, or load cc.AudioClip by loader first. Don't use audio's URL anymore.
+2018-12-27T06:20:28.907Z - normal: Simulator: D/jswrapper (129): JS: [WARN]: Since 1.10, `cc.audioEngine` accept cc.AudioClip instance directly, not a URL string. Please directly reference the AudioClip object in your script, or load cc.AudioClip by loader first. Don't use audio's URL anymore.
+2018-12-27T06:20:28.974Z - normal: Simulator: D/jswrapper (129): JS: [WARN]: Since 1.10, `cc.audioEngine` accept cc.AudioClip instance directly, not a URL string. Please directly reference the AudioClip object in your script, or load cc.AudioClip by loader first. Don't use audio's URL anymore.
+2018-12-27T06:20:29.041Z - normal: Simulator: D/jswrapper (129): JS: [WARN]: Since 1.10, `cc.audioEngine` accept cc.AudioClip instance directly, not a URL string. Please directly reference the AudioClip object in your script, or load cc.AudioClip by loader first. Don't use audio's URL anymore.
+2018-12-27T06:20:29.125Z - normal: Simulator: D/jswrapper (129): JS: [WARN]: Since 1.10, `cc.audioEngine` accept cc.AudioClip instance directly, not a URL string. Please directly reference the AudioClip object in your script, or load cc.AudioClip by loader first. Don't use audio's URL anymore.
+2018-12-27T06:20:29.208Z - normal: Simulator: D/jswrapper (129): JS: [WARN]: Since 1.10, `cc.audioEngine` accept cc.AudioClip instance directly, not a URL string. Please directly reference the AudioClip object in your script, or load cc.AudioClip by loader first. Don't use audio's URL anymore.
+2018-12-27T06:20:29.291Z - normal: Simulator: D/jswrapper (129): JS: [WARN]: Since 1.10, `cc.audioEngine` accept cc.AudioClip instance directly, not a URL string. Please directly reference the AudioClip object in your script, or load cc.AudioClip by loader first. Don't use audio's URL anymore.
+2018-12-27T06:20:29.427Z - normal: Simulator: D/jswrapper (129): JS: [WARN]: Since 1.10, `cc.audioEngine` accept cc.AudioClip instance directly, not a URL string. Please directly reference the AudioClip object in your script, or load cc.AudioClip by loader first. Don't use audio's URL anymore.
+2018-12-27T06:20:29.543Z - normal: Simulator: D/jswrapper (129): JS: [WARN]: Since 1.10, `cc.audioEngine` accept cc.AudioClip instance directly, not a URL string. Please directly reference the AudioClip object in your script, or load cc.AudioClip by loader first. Don't use audio's URL anymore.
+2018-12-27T06:20:29.660Z - normal: Simulator: D/jswrapper (129): JS: [WARN]: Since 1.10, `cc.audioEngine` accept cc.AudioClip instance directly, not a URL string. Please directly reference the AudioClip object in your script, or load cc.AudioClip by loader first. Don't use audio's URL anymore.
+2018-12-27T06:20:29.796Z - normal: Simulator: D/jswrapper (129): JS: [WARN]: Since 1.10, `cc.audioEngine` accept cc.AudioClip instance directly, not a URL string. Please directly reference the AudioClip object in your script, or load cc.AudioClip by loader first. Don't use audio's URL anymore.
+2018-12-27T06:20:29.961Z - normal: Simulator: D/jswrapper (129): JS: [WARN]: Since 1.10, `cc.audioEngine` accept cc.AudioClip instance directly, not a URL string. Please directly reference the AudioClip object in your script, or load cc.AudioClip by loader first. Don't use audio's URL anymore.
+2018-12-27T06:20:30.168Z - normal: Simulator: D/jswrapper (129): JS: [WARN]: Since 1.10, `cc.audioEngine` accept cc.AudioClip instance directly, not a URL string. Please directly reference the AudioClip object in your script, or load cc.AudioClip by loader first. Don't use audio's URL anymore.
+2018-12-27T06:20:30.417Z - normal: Simulator: D/jswrapper (129): JS: [WARN]: Since 1.10, `cc.audioEngine` accept cc.AudioClip instance directly, not a URL string. Please directly reference the AudioClip object in your script, or load cc.AudioClip by loader first. Don't use audio's URL anymore.
+2018-12-27T06:20:30.734Z - normal: Simulator: D/jswrapper (129): JS: [WARN]: Since 1.10, `cc.audioEngine` accept cc.AudioClip instance directly, not a URL string. Please directly reference the AudioClip object in your script, or load cc.AudioClip by loader first. Don't use audio's URL anymore.
+2018-12-27T06:20:31.222Z - normal: Simulator: D/jswrapper (129): JS: [WARN]: Since 1.10, `cc.audioEngine` accept cc.AudioClip instance directly, not a URL string. Please directly reference the AudioClip object in your script, or load cc.AudioClip by loader first. Don't use audio's URL anymore.
+2018-12-27T06:20:32.183Z - normal: Simulator: D/jswrapper (129): JS: 2x
+2018-12-27T06:20:36.083Z - normal: Simulator: D/jswrapper (452): ScriptEngine::cleanup begin ...
+2018-12-27T06:20:36.083Z - normal: Simulator: D/jswrapper (593): GC begin ..., (js->native map) size: 25, all objects: 89
+2018-12-27T06:20:36.121Z - normal: Simulator: D/jswrapper (601): GC end ..., (js->native map) size: 25, all objects: 89
+2018-12-27T06:20:36.121Z - normal: Simulator: D/jswrapper (593): GC begin ..., (js->native map) size: 25, all objects: 89
+2018-12-27T06:20:36.157Z - normal: Simulator: D/jswrapper (601): GC end ..., (js->native map) size: 25, all objects: 89
+2018-12-27T06:20:36.158Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (4) by GC
+2018-12-27T06:20:36.159Z - normal: Simulator: D/jswrapper (259): Destroy WebGLBuffer (1) by GC
+2018-12-27T06:20:36.159Z - normal: Simulator: D/jswrapper (259): Destroy WebGLBuffer (3) by GC
+2018-12-27T06:20:36.160Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (2) by GC
+2018-12-27T06:20:36.160Z - normal: Simulator: D/jswrapper (259): Destroy WebGLBuffer (2) by GC
+2018-12-27T06:20:36.161Z - normal: Simulator: D/jswrapper (259): Destroy WebGLBuffer (4) by GC
+2018-12-27T06:20:36.161Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (1) by GC
+2018-12-27T06:20:36.161Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (3) by GC
+2018-12-27T06:20:36.161Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (5) by GC
+2018-12-27T06:20:36.161Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (7) by GC
+2018-12-27T06:20:36.161Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (6) by GC
+2018-12-27T06:20:36.161Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (8) by GC
+2018-12-27T06:20:36.167Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (9) by GC
+2018-12-27T06:20:36.168Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (10) by GC
+2018-12-27T06:20:36.168Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (11) by GC
+2018-12-27T06:20:36.168Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (12) by GC
+2018-12-27T06:20:36.168Z - normal: Simulator: D/jswrapper (297): Destroy WebGLFramebuffer (1) by GC
+2018-12-27T06:20:36.169Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (13) by GC
+2018-12-27T06:20:36.169Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (14) by GC
+2018-12-27T06:20:36.169Z - normal: Simulator: D/jswrapper (316): Destroy WebGLProgram (3) by GC
+2018-12-27T06:20:36.169Z - normal: Simulator: D/jswrapper (593): GC begin ..., (js->native map) size: 0, all objects: 0
+2018-12-27T06:20:36.198Z - normal: Simulator: D/jswrapper (601): GC end ..., (js->native map) size: 0, all objects: 0
+2018-12-27T06:20:36.202Z - normal: Simulator: D/jswrapper (515): ScriptEngine::cleanup end ...
+2018-12-27T06:20:36.267Z - error: Simulator: libpng warning: iCCP: known incorrect sRGB profile
+    at HTMLElement.print-simulator-log (C:\CocosCreator\resources\app.asar\editor\builtin\scene\panel\messages\scene.js:1:1487)
+    at Object.e._dispatch (C:\CocosCreator\resources\app.asar\editor-framework\lib\renderer\panel.js:1:1941)
+    at EventEmitter.o.on.s (C:\CocosCreator\resources\app.asar\editor-framework\lib\renderer\ipc.js:1:2917)
+    at emitMany (events.js:127:13)
+    at EventEmitter.emit (events.js:204:7)
+2018-12-27T06:22:47.519Z - info: shutdown preview server
